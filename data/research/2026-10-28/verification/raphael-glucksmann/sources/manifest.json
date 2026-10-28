@@ -1,0 +1,29 @@
+[
+  {
+    "id": "audit-gluck-lettre-2026",
+    "candidate_id": "raphael-glucksmann",
+    "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+    "path": "data/research/2026-10-28/verification/raphael-glucksmann/sources/lettre-candidature.html",
+    "kind": "annonce_personnelle_campagne_2027",
+    "publication_date": "2026-08-25",
+    "verification_date": "2026-10-28"
+  },
+  {
+    "id": "audit-gluck-campagne-2027",
+    "candidate_id": "raphael-glucksmann",
+    "url": "https://glucks2027.fr/",
+    "path": "data/research/2026-10-28/verification/raphael-glucksmann/sources/campagne-verifiee.html",
+    "kind": "page_campagne",
+    "publication_date": null,
+    "verification_date": "2026-10-28"
+  },
+  {
+    "id": "audit-gluck-projet-index",
+    "candidate_id": "raphael-glucksmann",
+    "url": "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet",
+    "path": "data/research/2026-10-28/verification/raphael-glucksmann/sources/projet-verifie.html",
+    "kind": "projet_parti",
+    "publication_date": null,
+    "verification_date": "2026-10-28"
+  }
+]

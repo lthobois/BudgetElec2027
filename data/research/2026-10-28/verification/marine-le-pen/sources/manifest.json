@@ -1,0 +1,29 @@
+[
+  {
+    "id": "audit-rn-logement-2026",
+    "candidate_id": "marine-le-pen",
+    "url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+    "path": "data/research/2026-10-28/verification/marine-le-pen/sources/lettre-logement.html",
+    "kind": "annonce_personnelle_campagne_2027",
+    "publication_date": "2026-09-21",
+    "verification_date": "2026-10-28"
+  },
+  {
+    "id": "audit-rn-campagne-2027",
+    "candidate_id": "marine-le-pen",
+    "url": "https://marinelepen.com/",
+    "path": "data/research/2026-10-28/verification/marine-le-pen/sources/campagne-verifiee.html",
+    "kind": "page_campagne",
+    "publication_date": null,
+    "verification_date": "2026-10-28"
+  },
+  {
+    "id": "audit-rn-index",
+    "candidate_id": "marine-le-pen",
+    "url": "https://rassemblementnational.fr/",
+    "path": "data/research/2026-10-28/verification/marine-le-pen/sources/index-verifie.html",
+    "kind": "page_parti",
+    "publication_date": null,
+    "verification_date": "2026-10-28"
+  }
+]

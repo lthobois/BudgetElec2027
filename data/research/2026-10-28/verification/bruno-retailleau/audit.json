@@ -1,0 +1,288 @@
+{
+  "candidate_id": "bruno-retailleau",
+  "checked_date": "2026-10-28",
+  "publication_status_label": "Dossier budgétaire détaillé publié ; programme général encore partiel",
+  "publication_status_detail": "Le dossier officiel Rétablir l’ordre dans les comptes publics, daté du 12 octobre 2026, fournit 17 pages de fiches, une trajectoire annuelle, des hypothèses et un détail des économies et restitutions. La rubrique Comptes publics le propose toujours au téléchargement. Le site présente 120 mesures sur plusieurs thèmes mais indique encore « À venir » pour plusieurs volets.",
+  "scope_warning": "Il existe un contenu financier substantiel à restituer. Cela ne prouve ni la publication exhaustive du programme présidentiel ni la validité indépendante du chiffrage.",
+  "search_log": [
+    {
+      "query_or_url": "https://www.avecretailleau.fr/projet/theme/comptes-publics",
+      "result": "Rubrique officielle et lien vers le livret vérifiés le 28 octobre ; six fiches web et PDF présents."
+    },
+    {
+      "query_or_url": "https://www.avecretailleau.fr/projet",
+      "result": "Projet général consulté : thèmes économiques publiés ; plusieurs thèmes encore À venir."
+    },
+    {
+      "query_or_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "result": "Lecture complète du PDF archivé de 17 pages, notamment trajectoire p. 4, retraites p. 8 et restitution p. 16."
+    },
+    {
+      "query_or_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "result": "PDF retéléchargé le 28 octobre pour contrôle ; empreinte SHA-256 identique à la collecte initiale. Les pages citées restent exactes."
+    }
+  ],
+  "source_ids": [
+    "retailleau-livret-comptes-publics",
+    "retailleau-trajectoire",
+    "verification-retailleau-projet-20261028",
+    "verification-retailleau-comptes-20261028",
+    "verification-retailleau-budget-20261028"
+  ],
+  "strategy": {
+    "summary": "Le mécanisme revendiqué combine réduction de la dépense publique, baisse du coût du travail et des impôts de production, avec priorité à la réduction du déficit. Il relève principalement d’une stratégie d’offre et de maîtrise budgétaire ; les effets sur demande, services et croissance nécessitent une analyse distincte.",
+    "interpretation": true,
+    "source_ids": [
+      "retailleau-livret-comptes-publics"
+    ],
+    "limits": "Qualification descriptive à partir des fiches, sans jugement de mérite ni effet macroéconomique estimé."
+  },
+  "measures": [
+    {
+      "id": "bruno-retailleau-m01",
+      "axis": "dette",
+      "title": "Ramener le déficit à 2,2 % du PIB en 2032",
+      "description": "Le dossier présente une trajectoire annuelle : déficit sous 3 % en 2031, 2,2 % en 2032 et excédent primaire dès 2030. Les économies atteindraient 197 Md€ en 2032, dont 146 Md€ affectés au déficit.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 4",
+      "evidence_excerpt": "déficit sous 3 % en 2031, 2,2 % en 2032",
+      "attribution": "personal_2027",
+      "horizon": "2032, avec trajectoire 2027–2032",
+      "amount": {
+        "value": 2.2,
+        "unit": "% du PIB",
+        "basis": "objectif de déficit public en 2032"
+      },
+      "financing": "Paquet revendiqué de 197 Md€ d’économies à terme, dont 146 Md€ pour le déficit et 51 Md€ restitués.",
+      "beneficiaries": "Finances publiques ; coûts et bénéfices répartis par les mesures du paquet.",
+      "limits": "Trajectoire de campagne fondée notamment sur croissance réelle 0,8 % en 2027 puis 1 %. Les 197 Md€ sont un niveau à terme, pas un cumul du mandat ni une ligne additionnelle aux composants."
+    },
+    {
+      "id": "bruno-retailleau-m02",
+      "axis": "depenses",
+      "title": "Ne pas remplacer 400 000 départs en retraite publics",
+      "description": "Le plan prévoit 400 000 départs non remplacés sur les trois fonctions publiques, sans licenciement, et relie l’effort à l’IA et au temps de travail effectif.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 5",
+      "evidence_excerpt": "400 000 départs en retraite non remplacés",
+      "attribution": "personal_2027",
+      "horizon": "Montée en charge sur le quinquennat, effet 2032",
+      "amount": {
+        "value": 25,
+        "unit": "Md€ en 2032",
+        "basis": "économie chiffrée pour ce composant, inclus dans le bloc fonctionnement de 56 Md€"
+      },
+      "financing": "Baisse de masse salariale et réorganisation annoncées.",
+      "beneficiaries": "Contribuables et destinataires des baisses de prélèvements ; effets sur personnels et services à examiner.",
+      "limits": "Ne pas attribuer les 56 Md€ du bloc entier aux seuls effectifs. La faisabilité des gains de productivité et la continuité de service restent à vérifier."
+    },
+    {
+      "id": "bruno-retailleau-m03",
+      "axis": "entreprises",
+      "title": "Réduire les cotisations patronales",
+      "description": "Alléger les cotisations patronales sur toute l’échelle des salaires ; 15 Md€ figurent dans les restitutions financées par économies.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 16",
+      "evidence_excerpt": "Cotisations patronales sur toute l’échelle des salaires",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 15,
+        "unit": "Md€ en 2032",
+        "basis": "baisse de prélèvements annoncée à terme"
+      },
+      "financing": "Compte social unique, selon le tableau de la campagne.",
+      "beneficiaries": "Employeurs sur l’ensemble de l’échelle salariale ; transfert vers salaires/prix/investissement non établi.",
+      "limits": "Ne pas additionner aux 30 Md€ de restitutions aux entreprises : il en est un composant."
+    },
+    {
+      "id": "bruno-retailleau-m04",
+      "axis": "entreprises",
+      "title": "Supprimer 15 Md€ d’impôts de production",
+      "description": "Le tableau affecte 15 Md€ de baisses d’impôts de production aux entreprises.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 16",
+      "evidence_excerpt": "Impôts de production supprimés",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 15,
+        "unit": "Md€ en 2032",
+        "basis": "baisse d’impôts de production annoncée à terme"
+      },
+      "financing": "Économies générales, selon le tableau du candidat.",
+      "beneficiaries": "Entreprises acquittant les impôts supprimés ; ventilation sectorielle à établir.",
+      "limits": "Le tableau ne détaille pas ici l’ensemble des impôts concernés ni le calendrier individuel. Ce n’est pas une annonce de baisse du taux d’IS."
+    },
+    {
+      "id": "bruno-retailleau-m05",
+      "axis": "particuliers",
+      "title": "Réduire les cotisations salariales dès le premier euro",
+      "description": "Restituer 15 Md€ aux salariés par une baisse des cotisations dès le premier euro.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 16",
+      "evidence_excerpt": "Cotisations salariales en moins, dès le premier euro",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 15,
+        "unit": "Md€ en 2032",
+        "basis": "restitution annoncée aux salariés à terme"
+      },
+      "financing": "Réforme chômage et revenu d’incitation à l’activité, selon le tableau du dossier.",
+      "beneficiaries": "Salariés ; gain individuel selon barème à préciser.",
+      "limits": "Baisse de cotisations distincte de l’impôt sur le revenu ; le dossier ne fournit pas ici une microsimulation par foyer."
+    },
+    {
+      "id": "bruno-retailleau-m06",
+      "axis": "travail",
+      "title": "Fixer deux âges de retraite, 63 et 65 ans",
+      "description": "Autoriser un départ à 63 ans avec décote de 7 % par année manquante, prévoir un taux plein à 65 ans indexé sur l’espérance de vie et conserver certaines exceptions médicales.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 8",
+      "evidence_excerpt": "Deux âges : la liberté à 63 ans",
+      "attribution": "personal_2027",
+      "horizon": "Effet chiffré à 2032",
+      "amount": {
+        "value": 12,
+        "unit": "Md€ en 2032",
+        "basis": "chiffrage des seules mesures d’âge dans le tableau, pas des 42 Md€ du bloc retraites entier"
+      },
+      "financing": "Baisse des dépenses de retraite attendue de ces mesures d’âge.",
+      "beneficiaries": "Population active et futurs retraités ; effets selon carrière, santé et choix de départ.",
+      "limits": "Les 42 Md€ du bloc retraites incluent d’autres ressources et mesures ; ne pas les attribuer au seul relèvement des âges."
+    },
+    {
+      "id": "bruno-retailleau-m07",
+      "axis": "travail",
+      "title": "Réformer l’assurance chômage",
+      "description": "Appliquer les règles de juin 2024, notamment une durée maximale de 15 mois au lieu de 18, et renforcer les règles relatives aux ruptures conventionnelles, frontaliers et refus d’offres.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 10",
+      "evidence_excerpt": "durée maximale de 18 à 15 mois",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 14,
+        "unit": "Md€ en 2032",
+        "basis": "économie revendiquée du bloc assurance chômage"
+      },
+      "financing": "Réduction des allocations et modifications des règles, selon le dossier.",
+      "beneficiaries": "Actifs et employeurs destinataires des restitutions ; demandeurs d’emploi soumis aux règles nouvelles.",
+      "limits": "L’enveloppe couvre plusieurs changements, pas seulement trois mois de durée. Effets sur emploi et pauvreté non chiffrés indépendamment ici."
+    },
+    {
+      "id": "bruno-retailleau-m08",
+      "axis": "travail",
+      "title": "Plafonner les aides non contributives à 70 % du SMIC net",
+      "description": "Créer un compte social unique avec plafond par adulte, hors handicap, dépendance et vieillesse, et un registre national des versements.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 10",
+      "evidence_excerpt": "plafonné à 70 % du SMIC net",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 10,
+        "unit": "Md€ en 2032",
+        "basis": "économie revendiquée pour le compte social unique"
+      },
+      "financing": "Baisse des prestations non contributives ; le tableau de restitution l’associe aux cotisations patronales.",
+      "beneficiaries": "Futurs bénéficiaires des baisses de cotisations ; certains allocataires pourraient subir une réduction selon la mise en œuvre.",
+      "limits": "Composition du foyer, articulation des aides et exemptions doivent être précisées pour calculer les effets individuels."
+    },
+    {
+      "id": "bruno-retailleau-m09",
+      "axis": "depenses",
+      "title": "Réduire de 4 Md€ les indemnités journalières par rapport au tendanciel",
+      "description": "Renforcer les contrôles d’arrêts longs et prescriptions, plafonner certaines prescriptions et imposer un jour de carence dans le privé non rachetable par employeur ou complémentaire.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 9",
+      "evidence_excerpt": "avec la réforme, 13 Md€",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 4,
+        "unit": "Md€ en 2032",
+        "basis": "écart annoncé entre 17 Md€ tendanciels et 13 Md€ après réforme"
+      },
+      "financing": "Moindre progression des dépenses d’indemnités journalières.",
+      "beneficiaries": "Comptes sociaux ; salariés en arrêt, prescripteurs et employeurs concernés.",
+      "limits": "Ce n’est pas une baisse de 4 Md€ du budget de santé total. Les gains d’efficience sanitaire réinvestis sont explicitement exclus des 197 Md€."
+    },
+    {
+      "id": "bruno-retailleau-m10",
+      "axis": "depenses",
+      "title": "Réduire le fonctionnement des collectivités hors personnel",
+      "description": "Demander un engagement de maîtrise des coûts aux collectivités de plus de 10 M€ de budget, avec comparaison de groupes homogènes ; investissement et personnel exclus de cette ligne.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 14",
+      "evidence_excerpt": "10 Md€ en 2032 sur les seules dépenses",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 10,
+        "unit": "Md€ en 2032",
+        "basis": "économies revendiquées de fonctionnement local hors personnel et prestations sociales"
+      },
+      "financing": "Moindres dépenses de fonctionnement des collectivités.",
+      "beneficiaries": "Finances locales et publiques ; conséquences sur prestations locales et subventions à étudier.",
+      "limits": "Mise en œuvre annoncée dans le respect de la libre administration. Les non-remplacements territoriaux figurent ailleurs dans le plan."
+    },
+    {
+      "id": "bruno-retailleau-m11",
+      "axis": "depenses",
+      "title": "Mutualiser la gestion de la Sécurité sociale",
+      "description": "Fusionner régionalement les réseaux de caisses et mutualiser systèmes d’information, guichets et outils ; non-remplacements ciblés dans les organismes.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 13",
+      "evidence_excerpt": "TOTAL 4,0",
+      "attribution": "personal_2027",
+      "horizon": "2032",
+      "amount": {
+        "value": 4,
+        "unit": "Md€ en 2032",
+        "basis": "économies revendiquées de gestion de la Sécurité sociale"
+      },
+      "financing": "Moindres frais de gestion et mutualisation.",
+      "beneficiaries": "Comptes sociaux ; assurés et agents concernés par la réorganisation.",
+      "limits": "Coûts de transition et risques pour l’accès aux services non déduits dans cette lecture du tableau."
+    },
+    {
+      "id": "bruno-retailleau-m12",
+      "axis": "dette",
+      "title": "Soumettre une règle d’or budgétaire au référendum",
+      "description": "Reprendre le projet constitutionnel de 2011 pour imposer une programmation pluriannuelle avec plafonds de dépenses et minima de mesures en recettes.",
+      "source_id": "retailleau-livret-comptes-publics",
+      "source_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+      "locator": "Page PDF 17",
+      "evidence_excerpt": "Élus, nous le ferions dans les cent jours",
+      "attribution": "personal_2027",
+      "horizon": "Référendum proposé dans les cent premiers jours",
+      "amount": null,
+      "financing": "Règle de gouvernance, sans rendement budgétaire autonome annoncé.",
+      "beneficiaries": "Pilotage des comptes de l’État, de la Sécurité sociale et des collectivités.",
+      "limits": "Nécessite procédure constitutionnelle, vote et lois organiques ; ne pas comptabiliser la règle comme une économie supplémentaire."
+    }
+  ],
+  "assessment": {
+    "funding": "La documentation est détaillée : 197 Md€ d’économies en niveau à terme en 2032, répartis entre 146 Md€ pour réduire le déficit et 51 Md€ restitués. Le dossier ajoute 14 Md€ qualifiés d’autofinancés, à vérifier séparément. Totaux, sous-totaux et postes inclus ne doivent pas être additionnés une seconde fois.",
+    "distribution": "Les baisses affichées ciblent entreprises et salariés ; leur financement sollicite notamment retraites, chômage, aides non contributives et fonctionnement public. Les montants agrégés ne suffisent pas à établir les effets par décile, génération ou foyer.",
+    "feasibility": "Les hypothèses et un calendrier existent, mais les gains de productivité publics, rendements de lutte contre la fraude, réformes sociales et décisions locales restent à vérifier. Le volet constitutionnel dépend d’une procédure et d’une adoption, pas du seul chiffrage.",
+    "limitations": "Il s’agit d’une trajectoire de campagne et non d’une évaluation indépendante. Les économies 2032 ne sont pas un cumul quinquennal. Aucun nouveau taux général d’IS n’est établi par les pages retenues ; cotisations et impôts de production sont des prélèvements distincts."
+  },
+  "new_source_manifest_paths": [
+    "data/research/2026-10-28/verification/bruno-retailleau/collecte-results.json",
+    "data/research/2026-10-28/verification/bruno-retailleau/controle-pdf-results.json"
+  ]
+}

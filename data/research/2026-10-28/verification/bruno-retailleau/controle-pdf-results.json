@@ -1,0 +1,24 @@
+[
+  {
+    "id": "verification-retailleau-budget-20261028",
+    "candidate_id": "bruno-retailleau",
+    "url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+    "path": "data/research/2026-10-28/verification/bruno-retailleau/sources/budget-verifie-20261028.pdf",
+    "kind": "fiches_presse_budgetaires_campagne_2027",
+    "limitation": "Nouvelle capture de contrôle ; vérifier empreinte par rapport à la collecte initiale.",
+    "consulted_at_utc": "2026-10-28T14:28:14.892963+00:00",
+    "final_url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20%281%29.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "last_modified": null,
+    "status": "downloaded",
+    "size_bytes": 456546,
+    "sha256": "0a56ad9b9bd20c3453230312568ec5d172f5f153ecf2e7e83407b6b4514de0de",
+    "page_count": 17,
+    "pdf_metadata": {
+      "/Title": "Fiches presse – Rétablir l’ordre dans les comptes publics",
+      "/Author": "Clémence Brézet"
+    },
+    "text_path": "data/research/2026-10-28/verification/bruno-retailleau/sources/budget-verifie-20261028.txt"
+  }
+]

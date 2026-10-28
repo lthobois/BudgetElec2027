@@ -1,0 +1,229 @@
+{
+  "candidate_id": "raphael-glucksmann",
+  "checked_date": "2026-10-28",
+  "publication_status_label": "Orientations personnelles et projet collectif disponibles",
+  "publication_status_detail": "La lettre personnelle de candidature du 25 août 2026 contient des engagements sur EHPAD/crèches, services publics et transition écologique. Le projet collectif Acte I de Place publique contient des mesures économiques bien plus précises que la page de campagne, notamment salaire minimum, fiscalité, investissement et principes de financement. Aucun programme financier personnel consolidé avec trajectoire annuelle n’a été identifié dans les pages officielles consultées.",
+  "scope_warning": "Les trois premières mesures viennent de la lettre personnelle ; les sept autres de l’Acte I collectif. Le contenu du parti ne constitue pas, à lui seul, une confirmation personnelle de chaque mesure pour 2027.",
+  "search_log": [
+    {
+      "query_or_url": "site:glucks2027.fr programme économie fiscalité",
+      "result": "Site officiel de campagne trouvé via Place publique ; contenu centré sur déclaration, mobilisation et dons, sans chapitre financier détaillé."
+    },
+    {
+      "query_or_url": "site:place-publique.eu projet programme 2027 fiscalité Glucksmann",
+      "result": "Projet collectif Acte I et lettre personnelle aux Français retrouvés."
+    },
+    {
+      "query_or_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "result": "Lettre attribuée directement à Raphaël Glucksmann et datée du 25 août 2026."
+    },
+    {
+      "query_or_url": "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet",
+      "result": "Le parti présente l’Acte I comme vision et grands chantiers, point de départ d’une co-construction, et non programme financier personnel figé."
+    },
+    {
+      "query_or_url": "PDF local glucksmann-acte1",
+      "result": "Lecture des pages 11,40,48,64,85 ; mesures et principes de financement effectivement présents, mais aucun chiffrage général annuel dans la page de financement."
+    }
+  ],
+  "source_ids": [
+    "audit-gluck-lettre-2026",
+    "audit-gluck-campagne-2027",
+    "audit-gluck-projet-index",
+    "glucksmann-acte1"
+  ],
+  "strategy": {
+    "summary": "La lettre personnelle associe réinvestissement dans les services publics, planification écologique et protection des productions. Le projet collectif combine redistribution salariale et fiscale, investissement public national/européen et économies ciblées. Il relève donc d’une combinaison de soutien aux revenus et de transformation de l’offre, sous réserve d’attribution personnelle des mesures de l’Acte I.",
+    "interpretation": true,
+    "source_ids": [
+      "audit-gluck-lettre-2026",
+      "glucksmann-acte1"
+    ],
+    "limits": "Interprétation descriptive, sans simulation macroéconomique ni présomption que toute mesure collective est adoptée personnellement."
+  },
+  "measures": [
+    {
+      "id": "raphael-glucksmann-m01",
+      "axis": "depenses",
+      "title": "Démarchandiser les EHPAD et les crèches",
+      "description": "La lettre de candidature annonce une sortie de la logique marchande pour les EHPAD et les crèches.",
+      "source_id": "audit-gluck-lettre-2026",
+      "source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "locator": "Lettre personnelle de candidature du 25 août 2026, paragraphe « Je vous propose un nouveau contrat patriotique »",
+      "evidence_excerpt": "démarchandiserons",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Résidents des EHPAD, enfants accueillis en crèche et familles.",
+      "limits": "Modèle juridique, périmètre public/privé, modalités de rachat éventuel et financement non détaillés."
+    },
+    {
+      "id": "raphael-glucksmann-m02",
+      "axis": "depenses",
+      "title": "Redonner des moyens aux services publics",
+      "description": "La lettre engage à redonner à l’école, à l’hôpital et aux services publics les moyens de remplir leurs missions.",
+      "source_id": "audit-gluck-lettre-2026",
+      "source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "locator": "Lettre personnelle de candidature du 25 août 2026, paragraphe « Je vous propose un nouveau contrat patriotique »",
+      "evidence_excerpt": "services publics",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Usagers et agents des services publics.",
+      "limits": "Orientation personnelle explicite, mais aucun montant ni calendrier sectoriel dans cette lettre. Ne pas la présenter comme un budget opérationnel."
+    },
+    {
+      "id": "raphael-glucksmann-m03",
+      "axis": "investissement",
+      "title": "Planifier la transformation écologique",
+      "description": "La lettre de candidature annonce une organisation et une planification de la transformation écologique.",
+      "source_id": "audit-gluck-lettre-2026",
+      "source_url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+      "locator": "Lettre personnelle de candidature du 25 août 2026, paragraphe « Je vous propose un nouveau contrat patriotique »",
+      "evidence_excerpt": "transformation écologique",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Secteurs et populations concernés par la transition ; répartition à préciser.",
+      "limits": "Orientation de campagne, sans liste d’investissements, montant ou financement dans ce passage."
+    },
+    {
+      "id": "raphael-glucksmann-m04",
+      "axis": "travail",
+      "title": "Porter le SMIC à 1 600 euros nets",
+      "description": "Le projet collectif de Place publique propose de relever le SMIC à 1 600 euros nets dans les deux ans suivant l’accession au pouvoir.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 40, Acte I de Place publique",
+      "evidence_excerpt": "1600 euros net",
+      "attribution": "party_collective",
+      "horizon": "Deux ans après l’accession au pouvoir selon le texte collectif.",
+      "amount": {
+        "value": 1600,
+        "unit": "€/mois net",
+        "basis": "Niveau cible du SMIC dans l’Acte I, pas un coût budgétaire."
+      },
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Salariés rémunérés au SMIC ; effets sur grilles, entreprises et emploi à étudier.",
+      "limits": "Engagement du projet collectif, non reconfirmé dans la lettre personnelle consultée ; ni indexation du montant cible ni effet budgétaire chiffré."
+    },
+    {
+      "id": "raphael-glucksmann-m05",
+      "axis": "particuliers",
+      "title": "Rééquilibrer la fiscalité entre travail, capital et héritage",
+      "description": "L’Acte I propose un chantier fiscal modifiant la répartition des prélèvements entre travail, capital, héritage et retraites.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 40, Acte I de Place publique",
+      "evidence_excerpt": "grand chantier fiscal",
+      "attribution": "party_collective",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Travailleurs ciblés par l’intention de rééquilibrage ; contributions selon patrimoine et retraite à préciser.",
+      "limits": "Aucun barème, taux, seuil ou rendement fourni dans ce passage ; ne pas déduire une hausse ou baisse chiffrée pour un ménage type."
+    },
+    {
+      "id": "raphael-glucksmann-m06",
+      "axis": "depenses",
+      "title": "Indexer le point d’indice des fonctionnaires sur l’inflation",
+      "description": "Le projet collectif propose une revalorisation durable et l’indexation du point d’indice de la fonction publique sur l’inflation.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 40, Acte I de Place publique",
+      "evidence_excerpt": "point d’indice",
+      "attribution": "party_collective",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Agents de la fonction publique.",
+      "limits": "Coût, assiette, rattrapage éventuel et trajectoire annuelle non chiffrés ; attribution personnelle 2027 à confirmer."
+    },
+    {
+      "id": "raphael-glucksmann-m07",
+      "axis": "entreprises",
+      "title": "Taxer automatiquement les superprofits des multinationales",
+      "description": "L’Acte I prévoit un mécanisme automatique de taxation des superprofits des multinationales et des profiteurs de guerre.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 85, Acte I de Place publique",
+      "evidence_excerpt": "taxation des superprofits",
+      "attribution": "party_collective",
+      "horizon": null,
+      "amount": null,
+      "financing": "Présenté comme l’une des recettes nouvelles destinées à financer les priorités du projet collectif.",
+      "beneficiaries": "Contribuables et politiques financées selon le projet ; entreprises concernées à définir.",
+      "limits": "Définition des superprofits, taux, seuils et rendement absents ; l’Acte I ne constitue pas un chiffrage consolidé."
+    },
+    {
+      "id": "raphael-glucksmann-m08",
+      "axis": "investissement",
+      "title": "Créer un fonds européen de défense de 500 Md€",
+      "description": "Place publique propose un fonds européen de défense financé par un emprunt commun et orienté vers des productions européennes.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 11, Acte I de Place publique",
+      "evidence_excerpt": "500 milliards d’euros",
+      "attribution": "party_collective",
+      "horizon": "Mise en place rapide souhaitée, sans calendrier chiffré de décaissement.",
+      "amount": {
+        "value": 500,
+        "unit": "Md€",
+        "basis": "Taille proposée d’un fonds européen ; ce n’est pas une dépense annuelle du seul budget français."
+      },
+      "financing": "Emprunt commun européen proposé.",
+      "beneficiaries": "Capacités industrielles de défense et productions européennes.",
+      "limits": "Accord des partenaires européens, contribution française et remboursement non précisés dans le passage ; engagement collectif."
+    },
+    {
+      "id": "raphael-glucksmann-m09",
+      "axis": "investissement",
+      "title": "Créer un fonds national pour le foncier et le logement abordable",
+      "description": "Le projet collectif propose un fonds aidant les collectivités à acquérir du foncier et à développer des logements abordables.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 64, Acte I de Place publique",
+      "evidence_excerpt": "fonds national",
+      "attribution": "party_collective",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Collectivités et ménages visés par le logement abordable.",
+      "limits": "Dotation, financement, critères et nombre de logements non chiffrés. Mesure du parti, attribution personnelle à confirmer."
+    },
+    {
+      "id": "raphael-glucksmann-m10",
+      "axis": "dette",
+      "title": "Assainir les finances par une trajectoire de désendettement",
+      "description": "Le texte collectif annonce une trajectoire de désendettement reposant sur des économies ciblées et de nouvelles recettes, en maintenant des investissements prioritaires.",
+      "source_id": "glucksmann-acte1",
+      "source_url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+      "locator": "Page PDF 85, Acte I de Place publique",
+      "evidence_excerpt": "trajectoire crédible de",
+      "attribution": "party_collective",
+      "horizon": null,
+      "amount": null,
+      "financing": "Niches fiscales supprimées, contribution ciblée des hauts patrimoines et grands groupes, fiscalité écologique et efficacité de dépense mentionnées p. 85.",
+      "beneficiaries": "Administrations publiques et priorités d’investissement mentionnées par le projet.",
+      "limits": "Objectif qualitatif : aucun tableau annuel du déficit, de la dette, du solde primaire ou des intérêts. La crédibilité revendiquée n’est pas une validation indépendante."
+    }
+  ],
+  "assessment": {
+    "funding": "L’Acte I p.85 indique des leviers de recettes et économies, mais ni rendement total, ni coût agrégé, ni tableau annuel de financement. Les montants sectoriels ne démontrent pas l’équilibre global.",
+    "distribution": "Les travailleurs et usagers des services publics sont explicitement ciblés ; le projet collectif propose de rééquilibrer travail, capital, héritage et retraites. Aucun barème complet ne permet de calculer les effets par ménage.",
+    "feasibility": "Plusieurs instruments collectifs sont identifiables (SMIC, point d’indice, fonds logement), mais leurs paramètres financiers restent incomplets. Le fonds de défense dépend d’un accord européen ; sa taille ne doit pas être comptée comme charge annuelle française.",
+    "limitations": "Distinguer la lettre personnelle des pages du parti. L’absence de programme personnel consolidé dans ce corpus n’est ni absence de propositions, ni preuve de non-publication ailleurs."
+  },
+  "new_source_manifest_paths": [
+    "data/research/2026-10-28/verification/raphael-glucksmann/sources/manifest.json"
+  ],
+  "publication_status_source_ids": [
+    "audit-gluck-lettre-2026",
+    "audit-gluck-campagne-2027",
+    "audit-gluck-projet-index"
+  ],
+  "publication_status_checked_url_count": 5
+}

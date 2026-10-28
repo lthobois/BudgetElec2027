@@ -1,0 +1,235 @@
+{
+  "candidate_id": "marine-le-pen",
+  "checked_date": "2026-10-28",
+  "publication_status_label": "Annonces personnelles 2027 partielles trouvées",
+  "publication_status_detail": "Une lettre personnelle signée Marine Le Pen, candidate à la présidentielle 2027, publiée le 21 septembre 2026 sur le site officiel du RN, détaille un plan logement. Le site de campagne marinelepen.com, relié depuis le RN, n’expose pas de programme financier complet dans le contenu consultable. Les documents économiques antérieurs et le contre-budget RN 2026 restent des références distinctes.",
+  "scope_warning": "Les sept mesures logement ci-dessous sont des annonces personnelles 2027. Les trois dernières viennent du contre-budget du groupe RN pour 2026 et ne sont pas automatiquement des engagements présidentiels pour 2027.",
+  "search_log": [
+    {
+      "query_or_url": "site:rassemblementnational.fr 2027 programme économie Marine Le Pen contre budget 2027",
+      "result": "Documents antérieurs et communiqués repérés ; découverte d’une lettre présidentielle logement de septembre 2026."
+    },
+    {
+      "query_or_url": "https://rassemblementnational.fr/",
+      "result": "Menu distingue législatives/européennes 2024, contre-budget 2026 et présidentielle 2022 ; lien officiel vers marinelepen.com."
+    },
+    {
+      "query_or_url": "https://marinelepen.com/",
+      "result": "Page de soutien et formulaire de campagne ; aucun programme financier complet accessible dans le contenu consulté, ce qui ne prouve pas sa non-publication ailleurs."
+    },
+    {
+      "query_or_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "result": "Plan personnel logement daté du 21 septembre 2026, explicitement présidentiel et signé candidate 2027."
+    },
+    {
+      "query_or_url": "PDF locaux rn-contre-budget-2026 et rn-entreprises",
+      "result": "Lecture des couvertures/avertissements et tableaux : contre-budget présenté le 23 octobre 2025 pour 2026 ; livret entreprises version 2022 mise à jour."
+    }
+  ],
+  "source_ids": [
+    "audit-rn-logement-2026",
+    "audit-rn-campagne-2027",
+    "audit-rn-index",
+    "rn-contre-budget-2026",
+    "rn-entreprises"
+  ],
+  "strategy": {
+    "summary": "Le plan logement personnel combine soutien à la production (foncier et simplification) et accès des ménages au financement (rénovation et crédit). Les documents économiques antérieurs du RN combinent baisse de certains prélèvements et intervention publique ; ils ne suffisent pas à qualifier l’ensemble du programme présidentiel 2027.",
+    "interpretation": true,
+    "source_ids": [
+      "audit-rn-logement-2026",
+      "rn-contre-budget-2026",
+      "rn-entreprises"
+    ],
+    "limits": "Lecture descriptive des mécanismes annoncés, sans estimation de leurs effets ni étiquette unique offre/demande pour tout le programme."
+  },
+  "measures": [
+    {
+      "id": "marine-le-pen-m01",
+      "axis": "investissement",
+      "title": "Prêt à taux zéro « 100 % Renov »",
+      "description": "Financer les travaux des ménages par un prêt à taux zéro dans un dispositif de rénovation du parc immobilier.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous lancerons un vaste mouvement de rénovation du parc immobilier »",
+      "evidence_excerpt": "prêt à taux zéro",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Ménages rénovant un logement ; entreprises et artisans du bâtiment visés.",
+      "limits": "La lettre ne précise ni plafond, ni critères de ressources, ni garantie, ni coût de bonification du prêt. Ne pas assimiler ce mécanisme à une subvention couvrant 100 % des travaux."
+    },
+    {
+      "id": "marine-le-pen-m02",
+      "axis": "investissement",
+      "title": "Simplifier les normes de construction",
+      "description": "Supprimer ou simplifier les normes jugées non indispensables et réduire les délais des procédures de construction.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous libérerons l’acte de construire »",
+      "evidence_excerpt": "délais administratifs",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Porteurs de projets immobiliers et professionnels de la construction.",
+      "limits": "Liste des normes et réduction des délais non précisées ; économies et effet sur les constructions non chiffrés."
+    },
+    {
+      "id": "marine-le-pen-m03",
+      "axis": "investissement",
+      "title": "Mobiliser le foncier public disponible",
+      "description": "Demander à l’État, aux collectivités et aux grandes entreprises publiques de libérer des terrains pour construire.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous libérerons le foncier disponible »",
+      "evidence_excerpt": "libérer des terrains",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Constructeurs et futurs occupants des logements.",
+      "limits": "Volumes, prix de cession, calendrier et conséquences sur le patrimoine public non documentés."
+    },
+    {
+      "id": "marine-le-pen-m04",
+      "axis": "investissement",
+      "title": "Abroger la loi SRU",
+      "description": "Supprimer la loi SRU en redonnant aux maires la décision locale en matière de logement social.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous abrogerons la loi SRU »",
+      "evidence_excerpt": "loi SRU",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Maires et communes soumis aux obligations et pénalités ; effet sur ménages demandeurs de logement social à étudier.",
+      "limits": "Suppression annoncée sans dispositif chiffré de remplacement ; ne pas présenter le bénéfice revendiqué comme un résultat établi."
+    },
+    {
+      "id": "marine-le-pen-m05",
+      "axis": "investissement",
+      "title": "Supprimer le ZAN",
+      "description": "Supprimer le dispositif zéro artificialisation nette afin de rendre aux communes la maîtrise de leur foncier.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous supprimerons le ZAN »",
+      "evidence_excerpt": "Le ZAN sera supprimé",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Communes et promoteurs, particulièrement en milieu rural selon la lettre.",
+      "limits": "Articulation avec la préservation des terres agricoles et effets environnementaux non évalués ; pas de chiffrage budgétaire."
+    },
+    {
+      "id": "marine-le-pen-m06",
+      "axis": "particuliers",
+      "title": "Rendre obligatoire la portabilité des crédits immobiliers",
+      "description": "Obliger les banques à permettre le transfert des crédits antérieurs bénéficiant de taux plus favorables lors d’un changement de logement.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous ferons de la France une société de propriétaires »",
+      "evidence_excerpt": "portabilité des crédits",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Emprunteurs disposant d’un crédit immobilier ancien à taux favorable.",
+      "limits": "Conditions de transfert, partage du risque avec les banques et traitement des garanties non détaillés ; ce n’est pas une baisse d’impôt."
+    },
+    {
+      "id": "marine-le-pen-m07",
+      "axis": "particuliers",
+      "title": "Ramener l’exonération des plus-values immobilières à quinze ans",
+      "description": "Raccourcir à quinze ans la durée donnant accès aux exonérations de plus-value immobilière.",
+      "source_id": "audit-rn-logement-2026",
+      "source_url": "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier",
+      "locator": "Lettre du 21 septembre 2026, paragraphe « Nous encouragerons l’investissement immobilier »",
+      "evidence_excerpt": "quinze ans",
+      "attribution": "personal_2027",
+      "horizon": "Durée de détention visée : quinze ans ; entrée en vigueur non précisée.",
+      "amount": null,
+      "financing": "Non précisé dans le passage source.",
+      "beneficiaries": "Vendeurs de biens concernés par l’imposition des plus-values immobilières.",
+      "limits": "La lettre ne distingue pas l’impôt sur le revenu des prélèvements sociaux, ni les abattements intermédiaires. Perte de recettes non chiffrée."
+    },
+    {
+      "id": "marine-le-pen-m08",
+      "axis": "entreprises",
+      "title": "Supprimer totalement la CVAE dans le contre-budget 2026",
+      "description": "Le groupe RN inscrit la suppression totale de la cotisation sur la valeur ajoutée des entreprises dans son contre-budget pour 2026.",
+      "source_id": "rn-contre-budget-2026",
+      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "locator": "Page PDF 7, tableau « Contre-budget 2026 (base PLF 2026) »",
+      "evidence_excerpt": "suppression totale de la CVAE",
+      "attribution": "party_collective",
+      "horizon": "Budget 2026, document présenté le 23 octobre 2025.",
+      "amount": {
+        "value": 2.6,
+        "unit": "Md€",
+        "basis": "Baisse de recettes inscrite par le RN dans son contre-budget 2026, relativement au PLF 2026."
+      },
+      "financing": "Intégrée à l’ensemble des recettes et économies du contre-budget ; financement isolé non attribué à cette seule mesure.",
+      "beneficiaries": "Entreprises assujetties à la CVAE selon les règles applicables au budget de référence.",
+      "limits": "Document budgétaire du groupe pour 2026, pas confirmation autonome d’un engagement présidentiel 2027. Ne pas cumuler mécaniquement avec une nouvelle promesse fiscale."
+    },
+    {
+      "id": "marine-le-pen-m09",
+      "axis": "particuliers",
+      "title": "Baisser la TVA sur l’énergie dans le contre-budget 2026",
+      "description": "Le contre-budget RN prévoit une baisse de TVA sur les énergies, parmi ses mesures de pouvoir d’achat.",
+      "source_id": "rn-contre-budget-2026",
+      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "locator": "Page PDF 7, rubrique « Impôt / pouvoir d’achat »",
+      "evidence_excerpt": "Baisse TVA énergies",
+      "attribution": "party_collective",
+      "horizon": "Budget 2026.",
+      "amount": {
+        "value": 10.96,
+        "unit": "Md€",
+        "basis": "Baisse de recettes annoncée pour 2026 dans le tableau du contre-budget RN."
+      },
+      "financing": "Intégrée à l’équilibre global revendiqué du contre-budget, non vérifié indépendamment ici.",
+      "beneficiaries": "Consommateurs d’énergie concernés ; incidence selon consommation et répercussion dans les prix à étudier.",
+      "limits": "Le montant est celui du parti pour 2026. Le passage du tableau ne précise pas les produits et taux détaillés ; absence de validation comme programme complet 2027."
+    },
+    {
+      "id": "marine-le-pen-m10",
+      "axis": "dette",
+      "title": "Viser un déficit de 107 Md€ dans le contre-budget 2026",
+      "description": "Le groupe RN présente un déficit public de 107 Md€ dans son contre-budget, contre 143 Md€ dans le budget gouvernemental de référence de son document.",
+      "source_id": "rn-contre-budget-2026",
+      "source_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "locator": "Page PDF 5, tableau « Bilan comparé budgets Lecornu / contre-budget RN 2026 »",
+      "evidence_excerpt": "DÉFICIT PUBLIC",
+      "attribution": "party_collective",
+      "horizon": "Exercice budgétaire 2026 uniquement.",
+      "amount": {
+        "value": 107,
+        "unit": "Md€",
+        "basis": "Déficit public 2026 revendiqué par le RN ; ce n’est ni une économie ni une trajectoire présidentielle pluriannuelle."
+      },
+      "financing": "Résulte de l’agrégation par le RN de recettes et économies, dont des effets de retour fiscaux (tableau p. 7).",
+      "beneficiaries": "Ensemble des administrations publiques dans le bilan présenté par le parti.",
+      "limits": "La référence gouvernementale et les effets de retour ne sont pas audités ici. Le document ne constitue pas une trajectoire de dette présidentielle 2027–2032."
+    }
+  ],
+  "assessment": {
+    "funding": "Le plan logement personnel ne publie pas de coût global ou de financement consolidé. Le contre-budget 2026 contient des chiffrages, mais son équilibre ne peut pas financer par défaut un nouveau programme 2027.",
+    "distribution": "Bénéficiaires visés : ménages emprunteurs, propriétaires, communes et professionnels du bâtiment. Effets sur les locataires, demandeurs de logement social et répartition par revenu non chiffrés dans la lettre.",
+    "feasibility": "La lettre décrit des instruments identifiables, mais les changements de loi, garanties de prêt, normes supprimées et répartition État/collectivités/banques restent à préciser. Aucun avis indépendant collecté ici.",
+    "limitations": "Aucun programme financier personnel 2027 complet et consolidé identifié au terme de cette recherche. Les annonces partielles existent réellement ; la fiche ne doit donc plus être considérée comme vide ou limitée aux seuls documents anciens."
+  },
+  "new_source_manifest_paths": [
+    "data/research/2026-10-28/verification/marine-le-pen/sources/manifest.json"
+  ],
+  "publication_status_source_ids": [
+    "audit-rn-logement-2026",
+    "audit-rn-campagne-2027",
+    "audit-rn-index"
+  ],
+  "publication_status_checked_url_count": 5
+}

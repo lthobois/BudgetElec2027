@@ -1,0 +1,305 @@
+{
+  "candidate_id": "jean-luc-melenchon",
+  "checked_date": "2026-10-28",
+  "publication_status_label": "Orientations budgétaires 2027 publiées ; livre complet annoncé pour novembre",
+  "publication_status_detail": "La page officielle annonce la cinquième édition de L’Avenir en commun et 1 069 mesures pour mai 2027, avec disponibilité en librairie le 6 novembre. Elle rend déjà accessibles un document budgétaire de 24 pages et le dossier de pôle public bancaire. Elle dit explicitement que les orientations 2027 ne sont pas un chiffrage complet du programme pluriannuel. Le plan enseignement supérieur et recherche est également accessible.",
+  "scope_warning": "Ces propositions sont exploitables dès maintenant ; leur chiffrage reste celui de la campagne. Le livre complet 2027 n’a pas été acquis, et le programme NFP 2024 n’est pas substitué au programme présidentiel.",
+  "search_log": [
+    {
+      "query_or_url": "https://melenchon2027.fr/programme/decouvrir/",
+      "result": "État de publication vérifié en ligne le 28 octobre ; livre annoncé le 6 novembre, documents budgétaires déjà proposés."
+    },
+    {
+      "query_or_url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+      "result": "Plan détaillé accessible ; engagements supplémentaires sur recherche, autonomie, université et vie étudiante."
+    },
+    {
+      "query_or_url": "https://melenchon2027.fr/programme/plans-investissement/",
+      "result": "Index officiel : plans BTP/logement et automobile accessibles ; pas chiffrage exhaustif intégré dans cette extraction."
+    },
+    {
+      "query_or_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "result": "Lecture des pages PDF 8–16 et 19–20 de la copie archivée ; extraction des propositions et réserves."
+    },
+    {
+      "query_or_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "result": "PDF retéléchargé le 28 octobre pour contrôle ; empreinte SHA-256 identique à la collecte initiale. Les pages citées restent exactes."
+    }
+  ],
+  "source_ids": [
+    "melenchon-comptes-publics",
+    "melenchon-pole-bancaire",
+    "verification-melenchon-programme-20261028",
+    "verification-melenchon-esr-20261028",
+    "verification-melenchon-investissement-20261028",
+    "verification-melenchon-budget-20261028"
+  ],
+  "strategy": {
+    "summary": "Le mécanisme revendiqué combine relance par les revenus et les services publics, redistribution fiscale vers les hauts patrimoines et grandes entreprises, et investissement productif piloté publiquement. Il comporte donc un volet de demande et un volet d’offre par l’investissement ; sa réussite macroéconomique n’est pas établie par la simple publication du programme.",
+    "interpretation": true,
+    "source_ids": [
+      "melenchon-comptes-publics"
+    ],
+    "limits": "Lecture descriptive des mécanismes p. 8–16 ; pas de multiplicateur, effet sur la croissance ou appréciation de faisabilité validés."
+  },
+  "measures": [
+    {
+      "id": "jean-luc-melenchon-m01",
+      "axis": "dette",
+      "title": "Réduire le déficit par des recettes nouvelles",
+      "description": "Le bilan affiche 106,4 Md€ de recettes nouvelles, 81,7 Md€ de dépenses et 24,7 Md€ de réduction du déficit. Il s’agit du bilan revendiqué du document budgétaire, pas d’une simulation indépendante.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 14",
+      "evidence_excerpt": "24,7 milliards de réduction du déficit",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires pour 2027",
+      "amount": {
+        "value": 24.7,
+        "unit": "Md€",
+        "basis": "réduction du déficit revendiquée dans le bilan des orientations 2027"
+      },
+      "financing": "Recettes fiscales et sociales nouvelles détaillées p. 13–14, nettes des dépenses annoncées.",
+      "beneficiaries": "Finances publiques ; les effets sur les ménages dépendent du paquet fiscal.",
+      "limits": "Le bilan n’est pas une trajectoire annuelle complète dette/PIB. Ne pas additionner à nouveau ses composants."
+    },
+    {
+      "id": "jean-luc-melenchon-m02",
+      "axis": "travail",
+      "title": "Porter le SMIC à 1 700 € net",
+      "description": "Relever le SMIC net et convoquer une conférence exceptionnelle sur les salaires ; le document propose aussi une indexation généralisée des salaires sur l’inflation.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 9",
+      "evidence_excerpt": "hausse du SMIC à 1 700 euros net",
+      "attribution": "personal_2027",
+      "horizon": "Mesure d’urgence sociale",
+      "amount": {
+        "value": 1700,
+        "unit": "€/mois net",
+        "basis": "niveau de SMIC proposé, pas coût budgétaire"
+      },
+      "financing": "Financement non ventilé à cette mesure dans le passage retenu.",
+      "beneficiaries": "Salariés rémunérés au SMIC ; effets indirects et coûts employeurs à étudier.",
+      "limits": "Le niveau de salaire n’est pas un coût pour les administrations ; incidence sur emploi et prix non évaluée ici."
+    },
+    {
+      "id": "jean-luc-melenchon-m03",
+      "axis": "travail",
+      "title": "Créer une garantie d’autonomie des jeunes",
+      "description": "Avancer vers une garantie assurant aux jeunes pendant études et formation un revenu au moins égal au seuil de pauvreté indiqué de 1 337 € par mois.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 8",
+      "evidence_excerpt": "ce qui coûtera 9,5 milliards d’euros",
+      "attribution": "personal_2027",
+      "horizon": "Premières mesures budgétaires 2027",
+      "amount": {
+        "value": 9.5,
+        "unit": "Md€",
+        "basis": "coût annoncé de la garantie d’autonomie dans le budget d’urgence"
+      },
+      "financing": "Paquet global de recettes nouvelles du document ; pas d’affectation exclusive.",
+      "beneficiaries": "Jeunes en études et en formation, selon les conditions à préciser.",
+      "limits": "Conditions d’éligibilité et articulation avec aides existantes à examiner ; ce coût appartient au total des dépenses."
+    },
+    {
+      "id": "jean-luc-melenchon-m04",
+      "axis": "depenses",
+      "title": "Ouvrir 10 000 postes dans l’éducation",
+      "description": "Créer 10 000 postes pour l’année suivante, dans une stratégie visant à réduire le nombre d’élèves par classe.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 9",
+      "evidence_excerpt": "ouvrir 10 000 postes pour l’année prochaine",
+      "attribution": "personal_2027",
+      "horizon": "Année budgétaire suivante, dans les orientations 2027",
+      "amount": {
+        "value": 0.5,
+        "unit": "Md€",
+        "basis": "coût annoncé des 10 000 postes"
+      },
+      "financing": "Paquet global de recettes nouvelles ; mesure incluse dans les dépenses de services publics.",
+      "beneficiaries": "Élèves, personnels éducatifs et établissements publics.",
+      "limits": "Calendrier effectif des recrutements, disponibilité des personnels et répartition territoriale à préciser."
+    },
+    {
+      "id": "jean-luc-melenchon-m05",
+      "axis": "depenses",
+      "title": "Augmenter de 3 Md€ le budget des hôpitaux",
+      "description": "Le document associe une hausse du budget des hôpitaux à au moins 10 000 créations de postes de personnel soignant.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 10",
+      "evidence_excerpt": "hausse globale de 3 milliards d’euros du budget des hôpitaux",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires 2027",
+      "amount": {
+        "value": 3,
+        "unit": "Md€",
+        "basis": "hausse budgétaire annoncée pour les hôpitaux"
+      },
+      "financing": "Paquet global des recettes supplémentaires ; pas financement autonome démontré.",
+      "beneficiaries": "Patients et personnels de l’hôpital public.",
+      "limits": "Le lien entre enveloppe, recrutements et capacité de soins nécessite une analyse opérationnelle."
+    },
+    {
+      "id": "jean-luc-melenchon-m06",
+      "axis": "particuliers",
+      "title": "Supprimer la flat tax",
+      "description": "Revenir sur le prélèvement forfaitaire unique afin de rapprocher l’imposition du capital de celle du travail ; rendement annoncé de 9 Md€.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 13",
+      "evidence_excerpt": "suppression de la flat tax",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires 2027",
+      "amount": {
+        "value": 9,
+        "unit": "Md€",
+        "basis": "recettes revendiquées de la suppression de la flat tax"
+      },
+      "financing": "Recette nouvelle incluse dans le paquet fiscal global.",
+      "beneficiaries": "Effort fiscal ciblé sur les détenteurs de revenus du capital ; effets individuels selon options et assiettes.",
+      "limits": "Le rendement dépend des comportements fiscaux et de la définition des assiettes ; non vérifié indépendamment."
+    },
+    {
+      "id": "jean-luc-melenchon-m07",
+      "axis": "particuliers",
+      "title": "Rétablir un impôt sur la fortune renforcé",
+      "description": "Le document prévoit le retour d’un ISF renforcé et lui attribue 10 Md€ de recettes.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 13",
+      "evidence_excerpt": "rétablissement d’un impôt sur la fortune renforcé",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires 2027",
+      "amount": {
+        "value": 10,
+        "unit": "Md€",
+        "basis": "recettes annoncées de l’ISF renforcé"
+      },
+      "financing": "Recette nouvelle proposée.",
+      "beneficiaries": "Contribuables possédant les patrimoines entrant dans le futur barème ; affectation collective des recettes.",
+      "limits": "Seuils, assiette et interactions avec la taxe Zucman doivent être rapprochés pour éviter tout double compte."
+    },
+    {
+      "id": "jean-luc-melenchon-m08",
+      "axis": "particuliers",
+      "title": "Rendre l’impôt sur le revenu plus progressif",
+      "description": "Réformer l’impôt sur le revenu durant le mandat par l’instauration de 14 tranches.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 14",
+      "evidence_excerpt": "l’instauration de 14 tranches",
+      "attribution": "personal_2027",
+      "horizon": "Au cours du mandat",
+      "amount": null,
+      "financing": "Aucun rendement distinct donné pour les 14 tranches dans le passage retenu.",
+      "beneficiaries": "Ménages imposables ; gains et pertes individuels non déterminables sans barème complet.",
+      "limits": "Ne pas inventer taux ou seuils des tranches à partir du seul nombre de tranches."
+    },
+    {
+      "id": "jean-luc-melenchon-m09",
+      "axis": "entreprises",
+      "title": "Rétablir la CVAE sur les plus grandes entreprises",
+      "description": "Rétablir cette composante des impôts de production sur les plus grandes entreprises, avec 3 Md€ de recettes annoncées.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 13",
+      "evidence_excerpt": "rétablissement de la CVAE sur les plus grandes entreprises",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires 2027",
+      "amount": {
+        "value": 3,
+        "unit": "Md€",
+        "basis": "recettes de CVAE annoncées"
+      },
+      "financing": "Recette fiscale nouvelle.",
+      "beneficiaries": "Effort demandé aux plus grandes entreprises ; seuil de ciblage à préciser.",
+      "limits": "Périmètre des entreprises et effets sur investissement/prix/emploi non établis dans cette extraction."
+    },
+    {
+      "id": "jean-luc-melenchon-m10",
+      "axis": "entreprises",
+      "title": "Réformer l’impôt sur les sociétés",
+      "description": "Le document propose une réforme de l’IS pour réduire les écarts de taux implicites entre PME et grandes entreprises ; il annonce 3 Md€ de recettes.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 14",
+      "evidence_excerpt": "via une réforme de l’impôt sur les sociétés",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires 2027",
+      "amount": {
+        "value": 3,
+        "unit": "Md€",
+        "basis": "recettes revendiquées de la réforme de l’IS"
+      },
+      "financing": "Recette supplémentaire du paquet fiscal.",
+      "beneficiaries": "Objectif déclaré de préserver les activités productives, notamment PME et TPE, et de faire contribuer les grandes entreprises.",
+      "limits": "Le passage ne fixe pas un nouveau taux nominal général d’IS ; ne pas en déduire un taux."
+    },
+    {
+      "id": "jean-luc-melenchon-m11",
+      "axis": "investissement",
+      "title": "Mobiliser un pôle public bancaire",
+      "description": "Réorganiser les institutions financières publiques et orienter davantage l’épargne afin de financer des investissements productifs et écologiques ; potentiel revendiqué de 100 Md€ supplémentaires par an.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 16",
+      "evidence_excerpt": "chaque année 100 milliards d’euros supplémentaires",
+      "attribution": "personal_2027",
+      "horizon": "Montée en charge non détaillée dans le passage",
+      "amount": {
+        "value": 100,
+        "unit": "Md€/an",
+        "basis": "capacité supplémentaire d’investissement revendiquée du pôle bancaire, pas dépense budgétaire directe"
+      },
+      "financing": "Centralisation accrue de l’épargne réglementée, plafond du livret A et produit d’épargne de moyen/long terme envisagé.",
+      "beneficiaries": "Filières productives et projets relevant de la planification écologique.",
+      "limits": "Prêts, garanties et prises de participation ne se comparent pas à une subvention budgétaire. Risques, ressources effectivement mobilisables et classification comptable restent à analyser."
+    },
+    {
+      "id": "jean-luc-melenchon-m12",
+      "axis": "dette",
+      "title": "Défendre le gel ou l’annulation de titres détenus par la BCE",
+      "description": "Le document présente comme solution privilégiée une négociation européenne visant les dettes publiques détenues par la BCE, ainsi que de nouveaux rachats pour soutenir l’investissement.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 20",
+      "evidence_excerpt": "geler ou annuler la part des dettes publiques",
+      "attribution": "personal_2027",
+      "horizon": "Négociation européenne ; calendrier non précisé",
+      "amount": null,
+      "financing": "Mécanisme monétaire et réduction du besoin de refinancement revendiqués, sans montant chiffré propre.",
+      "beneficiaries": "États membres concernés ; répartition et conséquences monétaires non évaluées.",
+      "limits": "Dépend de décisions de l’Eurosystème et des partenaires européens. L’affirmation de compatibilité avec les traités est celle du candidat et n’est pas validée juridiquement ici."
+    },
+    {
+      "id": "jean-luc-melenchon-m13",
+      "axis": "entreprises",
+      "title": "Supprimer les exonérations au-delà de deux SMIC",
+      "description": "Interrompre les exonérations de cotisations sociales sur les rémunérations au-dessus de deux SMIC.",
+      "source_id": "melenchon-comptes-publics",
+      "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "locator": "Page PDF 14",
+      "evidence_excerpt": "d’interrompre cette subvention au-dessus de 2 SMIC",
+      "attribution": "personal_2027",
+      "horizon": "Orientations budgétaires 2027",
+      "amount": null,
+      "financing": "Restauration de recettes sociales ; aucun rendement propre isolé dans ce passage.",
+      "beneficiaries": "Protection sociale ; hausse de prélèvements pour les employeurs concernés.",
+      "limits": "Le rendement distinct et l’articulation avec les 22 Md€ de niches fiscales et sociales doivent être précisés avant addition."
+    }
+  ],
+  "assessment": {
+    "funding": "Le document est substantiel : bilan revendiqué de 106,4 Md€ de recettes, 81,7 Md€ de dépenses et 24,7 Md€ de réduction du déficit, avec plusieurs rendements fiscaux. Il faut vérifier les interactions entre ISF, taxe Zucman, niches et prélèvements sur entreprises. Les 100 Md€/an du pôle bancaire constituent un canal distinct, non une recette de l’État.",
+    "distribution": "Le ciblage déclaré favorise jeunes, salariés modestes et services publics, avec un effort fiscal porté sur hauts patrimoines, revenus du capital et grandes entreprises. Le détail des gagnants et perdants par décile n’est pas fourni par cette extraction.",
+    "feasibility": "La création de postes, le barème fiscal complet, la mobilisation de l’épargne et la négociation avec la BCE comportent des conditions opérationnelles ou institutionnelles non résolues par le document. Aucun verdict juridique ou macroéconomique n’est produit ici.",
+    "limitations": "Absence de trajectoire complète et indépendante de dette/PIB. Certains passages mêlent « dès 2026 », « année prochaine » et budget 2027 : les horizons sont à contrôler mesure par mesure. Ne pas présenter l’ensemble comme un programme vide, ni comme un financement intégral déjà validé."
+  },
+  "new_source_manifest_paths": [
+    "data/research/2026-10-28/verification/jean-luc-melenchon/collecte-results.json",
+    "data/research/2026-10-28/verification/jean-luc-melenchon/controle-pdf-results.json"
+  ]
+}

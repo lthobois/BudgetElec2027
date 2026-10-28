@@ -1,0 +1,27 @@
+[
+  {
+    "id": "verification-melenchon-budget-20261028",
+    "candidate_id": "jean-luc-melenchon",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+    "path": "data/research/2026-10-28/verification/jean-luc-melenchon/sources/budget-verifie-20261028.pdf",
+    "kind": "orientations_budgetaires_2027",
+    "limitation": "Nouvelle capture de contrôle ; vérifier empreinte par rapport à la collecte initiale.",
+    "consulted_at_utc": "2026-10-28T14:28:09.412642+00:00",
+    "final_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "last_modified": "Wed, 14 Oct 2026 12:28:38 GMT",
+    "status": "downloaded",
+    "size_bytes": 4048830,
+    "sha256": "796b2e7a7a3d26e6812498c7ad5e0589134fdb0429918e40975dfa22a67563e7",
+    "page_count": 24,
+    "pdf_metadata": {
+      "/CreationDate": "D:20261014095930+02'00'",
+      "/Creator": "Adobe InDesign 21.6 (Macintosh)",
+      "/ModDate": "D:20261014095936+02'00'",
+      "/Producer": "Adobe PDF Library 18.0",
+      "/Trapped": "/False"
+    },
+    "text_path": "data/research/2026-10-28/verification/jean-luc-melenchon/sources/budget-verifie-20261028.txt"
+  }
+]
