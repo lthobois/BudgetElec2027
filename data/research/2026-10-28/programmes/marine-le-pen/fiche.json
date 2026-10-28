@@ -1,0 +1,18 @@
+{
+  "candidate_id": "marine-le-pen",
+  "name": "Marine Le Pen",
+  "priority": "reference_top5",
+  "financial_document_status": "related_party_documents_found_personal_2027_programme_not_found_in_search",
+  "programme_scope": "Contre-budget RN 2026 et livret entreprises reprenant une version 2022 mise à jour",
+  "source_ids": [
+    "rn-index",
+    "rn-contre-budget-2026",
+    "rn-entreprises"
+  ],
+  "primary_source_id": "rn-contre-budget-2026",
+  "findings": "Le contre-budget est daté du 23 octobre 2025 sur sa couverture et vise 2026. Le livret entreprises précise p. 2 qu’il s’agit de la version 2022 mise à jour, servant de base de travail pour les prochaines échéances.",
+  "limits": "Aucun programme financier personnel consolidé pour la présidentielle 2027 identifié dans les sources officielles consultées. Ne pas transformer ces documents en engagements 2027 confirmés.",
+  "useful_locations": "Contre-budget : couverture p. 1, mesures et tableaux p. 3–7 ; livret entreprises : avertissement d’édition p. 2.",
+  "snapshot_date": "2026-10-28",
+  "analysis_status": "collected_not_independently_evaluated"
+}

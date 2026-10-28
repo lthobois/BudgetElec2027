@@ -1,0 +1,1351 @@
+=== PAGE PDF 1 ===
+NOTICE TECHNIQUE
+Intentions de vote élection présidentielle 2027 Ipsos bva
+Cesi école d’ingénieurs pour Le Parisien – Octobre 2026
+• 23 octobre 2026
+
+
+=== PAGE PDF 2 ===
+ARTICLE 2 – INFORMATIONS GENERALES
+▪ Organisme ayant réalisé le sondage IPSOS bva
+▪ Commanditaires du sondage Le Parisien
+▪ Nombre de personnes interrogées
+1500 personnes inscrites sur les listes électorales, 
+constituant un échantillon national représentatif de la 
+population française, âgée de 18 ans et plus.
+▪ Dates de réalisation des interviews Du 21 au 22 octobre 2026
+▪ Date de diffusion prévue Samedi 24 octobre, 17 heures
+▪ Questionnaire Présenté intégralement dans le rapport d’étude ci-après
+
+=== PAGE PDF 3 ===
+3
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+L’intervalle de confiance (appelé aussi marge d’erreur) est l’intervalle dans lequel se trouve la valeur recherchée avec une probabilité fixée (le niveau 
+de confiance). L’amplitude de cet intervalle dépend du niveau de confiance, de la valeur observée et de la taille de l’échantillon. Le calcul n’est justifié 
+que pour les sondages aléatoires. Il ne peut pas être déterminé dans le cas de sondages par quotas mais on considère qu’il est proche de celui des 
+sondages aléatoires.
+PRÉCISIONS SUR L’INTERVALLE DE CONFIANCE 
+INTERVALLE DE CONFIANCE
+(avec un niveau de confiance de 95%) 
+Taille 
+d'échantillon 
+(N)
+SCORES OBTENUS (P)
+2 ou 
+98%
+5% ou 
+95%
+10% ou 
+90%
+15% ou 
+85%
+20% ou 
+80%
+25% ou 
+75%
+30% ou 
+70%
+35% ou 
+65%
+40% ou 
+60%
+45% ou 
+55% 50%
+300 1,6 2,5 3,4 4,0 4,5 4,9 5,2 5,4 5,5 5,6 5,7
+400 1,4 2,1 2,9 3,5 3,9 4,2 4,5 4,7 4,8 4,9 4,9
+500 1,2 1,9 2,6 3,1 3,5 3,6 3,8 4,0 4,3 4,4 4,4
+600 1,1 1,7 2,4 2,9 3,2 3,5 3,7 3,8 3,9 4,0 4,0
+700 1,0 1,6 2,2 2,6 3,0 3,2 3,4 3,5 3,6 3,7 3,7
+800 1,0 1,5 2,1 2,5 2,8 3,0 3,2 3,3 3,4 3,4 3,5
+1 000 0,9 1,4 1,9 2,2 2,5 2,7 2,8 3,0 3,0 3,1 3,1
+1 069* 0,8 1,3 1,8 2,1 2,4 2,6 2,7 2,9 2,9 3,0 3,0
+1 100 0,8 1,3 1,8 2,1 2,4 2,6 2,7 2,8 2,9 2,9 3,0
+1 500** 0,7 1,1 1,5 1,8 2,0 2,2 2,3 2,4 2,5 2,5 2,5
+Note de lecture : Pour un échantillon de 1 069 personnes (Base 
+intentions de vote présidentielle premier tour), si le score mesuré 
+est de 20%, il y a 95% de chances pour que la valeur réelle se 
+situe aujourd’hui entre 17,6% et 22,4% (plus ou moins 2,4 
+points).   
+*Base intentions de vote – Hypothèse E. Philippe et D. Lisnard
+** Base ensemble (questions d’opinion)
+
+=== PAGE PDF 4 ===
+ARTICLE 3 – INFORMATIONS GENERALES
+▪ Objet du sondage Intentions de vote à l’élection présidentielle de 2027 - Ipsos bva Cesi école 
+d’ingénieurs pour Le Parisien
+▪ Echantillon interrogé
+1500 personnes inscrites sur les listes électorales, constituant un échantillon 
+national représentatif de la population française, âgée de 18 ans et plus.
+Méthode des quotas : sexe, âge, profession de la personne interrogée, 
+catégorie d’agglomération, région.
+▪ Mode de recueil En ligne
+▪ Taux de non-réponse Le taux de non-réponse (lorsqu’il est supérieur à 0) est présenté pour chaque 
+question dans le rapport ci-après.
+▪ Gratification des personnes interrogées Chaque répondant a obtenu des points cumulables pour une valeur inférieure à 1 
+euro.
+▪ Critères de redressement
+Le redressement a été effectué à partir de la structure sociodémographique de 
+la population française âgée de 18 ans et plus (sexe, âge, catégorie 
+socioprofessionnelle de la personne interrogée, région et catégorie 
+d’agglomération), du souvenir de vote aux élections européennes de 2024 et du 
+souvenir de vote au 1er tour de l’élection présidentielle de 2022.
+
+=== PAGE PDF 5 ===
+©Ipsos | La préparation des élections 
+municipales à Paris | Juin 2025
+Intentions de vote à 
+l’élection présidentielle 
+de 2027
+Octobre 2026
+VOS CONTACTS IPSOS BVA
+Brice Teinturier
+brice.teinturier@ipsos.com
+Jean-François Doridot
+jean-francois.doridot@ipsos.com
+Christelle Craplet
+christelle.craplet@ipsos.com
+Mathieu Gallard
+mathieu.gallard@ipsos.com
+Alexandre Leray
+alexandre.leray@ipsos.com
+
+
+=== PAGE PDF 6 ===
+6
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Enquête réalisée pour 
+Fiche méthodologique
+Ce rapport a été élaboré dans le respect de la norme internationale ISO 20252 « Etudes de marché, études sociales et 
+d’opinion ». Ce rapport a été relu par Jean-François Doridot, directeur général adjoint du pôle société d’Ipsos bva.
+Du 21 au 22 octobre 
+2026.
+ÉCHANTILLON DATES DE TERRAIN METHODOLOGIE
+Échantillon interrogé en ligne, via l’Access 
+panel Ipsos.
+Représentativité assurée par la méthode des 
+quotas selon le sexe, l’âge, la profession, la 
+région et la catégorie d’agglomération
+Note de lecture : tous les résultats sont 
+exprimés en pourcentages (%) 
+1 500 personnes, inscrites sur les 
+listes électorales, représentatif 
+de la population française âgée 
+de 18 ans et plus.
+
+=== PAGE PDF 7 ===
+7
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+L’intervalle de confiance (appelé aussi marge d’erreur) est l’intervalle dans lequel se trouve la valeur recherchée avec une probabilité fixée (le niveau 
+de confiance). L’amplitude de cet intervalle dépend du niveau de confiance, de la valeur observée et de la taille de l’échantillon. Le calcul n’est justifié 
+que pour les sondages aléatoires. Il ne peut pas être déterminé dans le cas de sondages par quotas mais on considère qu’il est proche de celui des 
+sondages aléatoires.
+PRÉCISIONS SUR L’INTERVALLE DE CONFIANCE 
+INTERVALLE DE CONFIANCE
+(avec un niveau de confiance de 95%) 
+Taille 
+d'échantillon 
+(N)
+SCORES OBTENUS (P)
+2 ou 
+98%
+5% ou 
+95%
+10% ou 
+90%
+15% ou 
+85%
+20% ou 
+80%
+25% ou 
+75%
+30% ou 
+70%
+35% ou 
+65%
+40% ou 
+60%
+45% ou 
+55% 50%
+300 1,6 2,5 3,4 4,0 4,5 4,9 5,2 5,4 5,5 5,6 5,7
+400 1,4 2,1 2,9 3,5 3,9 4,2 4,5 4,7 4,8 4,9 4,9
+500 1,2 1,9 2,6 3,1 3,5 3,6 3,8 4,0 4,3 4,4 4,4
+600 1,1 1,7 2,4 2,9 3,2 3,5 3,7 3,8 3,9 4,0 4,0
+700 1,0 1,6 2,2 2,6 3,0 3,2 3,4 3,5 3,6 3,7 3,7
+800 1,0 1,5 2,1 2,5 2,8 3,0 3,2 3,3 3,4 3,4 3,5
+1 000 0,9 1,4 1,9 2,2 2,5 2,7 2,8 3,0 3,0 3,1 3,1
+1 069* 0,8 1,3 1,8 2,1 2,4 2,6 2,7 2,9 2,9 3,0 3,0
+1 100 0,8 1,3 1,8 2,1 2,4 2,6 2,7 2,8 2,9 2,9 3,0
+1 500** 0,7 1,1 1,5 1,8 2,0 2,2 2,3 2,4 2,5 2,5 2,5
+Note de lecture : Pour un échantillon de 1 069 personnes (Base 
+intentions de vote présidentielle premier tour), si le score mesuré 
+est de 20%, il y a 95% de chances pour que la valeur réelle se 
+situe aujourd’hui entre 17,6% et 22,4% (plus ou moins 2,4 
+points).   
+*Base intentions de vote – Hypothèse E. Philippe et D. Lisnard
+** Base ensemble (questions d’opinion)
+
+=== PAGE PDF 8 ===
+8
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+LES INTENTIONS DE VOTE EN 
+VUE DE L’ÉLECTION 
+PRÉSIDENTIELLE 
+
+=== PAGE PDF 9 ===
+9
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+L’intérêt pour l’élection présidentielle 2027
+Question : Sur une échelle de 0 à 10, où 0 signifie aucun intérêt et 10 signifie énormément d’intérêt, quel est votre niveau d’intérêt pour la 
+prochaine élection présidentielle de 2027 ? 
+Base : Ensemble de l’échantillon
+55
+27
+13
+5
+% INTÉRESSÉ 
+(Notes de 7 à 10)
+82
+ Très intéressé (notes de 9 à 10)  Plutôt intéressé (Notes de 7 à 8)  Moyennement intéressé (notes de 4 à 6)  Pas intéressé (Notes de 0 à 3)
+Evolutions de l’intérêt pour l’élection présidentielle
+47
+27
+18
+8
+38
+30
+22
+10
+% INTÉRESSÉ 
+(Notes de 7 à 10)
+68
+% INTÉRESSÉ 
+(Notes de 7 à 10)
+74
+Le Parisien
+Octobre 2021
+Le Parisien
+Septembre 2026
+Rappels
+
+=== PAGE PDF 10 ===
+10
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+0,5%
+17%
+2,5%
+3,5%
+15,5%
+9,5%
+11,5%
+2%
+33,5%
+4,5%
+0,5%
+17%
+2%
+3,5%
+14%
+15%
+8%
+2%
+33,5%
+4,5%
+0,5%
+17%
+2%
+3,5%
+13%
+4%
+13%
+7,5%
+1,5%
+33,5%
+4,5%
+Récapitulatif - Intentions de vote pour le premier tour de l’élection présidentielle 2027 
+Nathalie Arthaud
+Jean-Luc Mélenchon
+Fabien Roussel
+Marine Tondelier
+Raphaël Glucksmann
+Gabriel Attal
+Edouard Philippe
+Bruno Retailleau
+David Lisnard
+Nicolas Dupont-Aignan
+Marine Le Pen
+Eric Zemmour
+0,5%
+17%
+2,5%
+3,5%
+13%
+14%
+5,5%
+6,5%
+1,5%
+32%
+4%
+Non testé Non testé Non testé
+Non testé
+Non testé
+Non testé
+Hypothèse Gabriel Attal et 
+Edouard Philippe
+Hypothèse Edouard Philippe 
+candidat unique Renaissance-
+MoDem-Horizons
+Hypothèse Gabriel Attal 
+candidat unique Renaissance-
+MoDem-Horizons
+Hypothèse Edouard Philippe 
+et David Lisnard
+
+=== PAGE PDF 11 ===
+11
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Intentions de vote pour le premier tour de l’élection présidentielle 2027
+Hypothèse : G. Attal et E. Philippe
+Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 7%
+Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats suivants, quel est 
+celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour ? 
+Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 1 057 personnes.
+0,5%
+17%
+2%
+3,5%
+13%
+4%
+13%
+7,5%
+1,5%
+33,5%
+4,5%
+Nathalie Arthaud
+Jean-Luc Mélenchon
+Fabien Roussel
+Marine Tondelier
+Raphaël Glucksmann
+Gabriel Attal
+Edouard Philippe
+Bruno Retailleau
+Nicolas Dupont-Aignan
+Marine Le Pen
+Eric Zemmour
+Marges d’erreur
++/- 0,4 point
++/- 2,3 points
++/- 0,8 point
++/- 1,1 point
++/- 2 points
++/- 1,2 point
++/- 2 points
++/- 1,6 point
++/- 0,7 point
++/- 2,8 points
++/- 1,2 point
+Rappels Le Parisien
+Septembre 
+2026
+Juin 
+2026
+0,5% 1%
+15% 13%
+2,5% 3%
+3,5% 4%
+11,5% 11%
+7,5% 8,5%
+14,5% 14%
+6% 8,5%
+2% 1,5%
+34% 31%
+3% 4,5%
+
+=== PAGE PDF 12 ===
+12
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Les transferts de vote depuis 2022
+Hypothèse : G. Attal et E. Philippe
+Note de lecture : 60% des électeurs de J.-L. Mélenchon au 1er tour de l’élection présidentielle de 2022 voteraient pour J.-L. Mélenchon au 1er tour de l’élection présidentielle de 
+2027 (s’ils allaient voter et s’exprimaient en 2027), soit 4 points de plus aujourd’hui que depuis la dernière vague en septembre 2026.
+VOTE 1ER TOUR 
+2027  Nathalie 
+Arthaud
+Jean-Luc 
+Mélenchon
+Fabien 
+Roussel
+Marine 
+Tondelier
+Raphaël 
+Glucksmann
+Gabriel 
+Attal
+Edouard 
+Philippe
+Bruno 
+Retailleau
+Nicolas 
+Dupont-
+Aignan
+Marine 
+Le Pen
+Eric
+Zemmour TOTAL
+ VOTE 1ER TOUR 
+2022
+Jean-Luc Mélenchon - 60 6 8 20 - 1 2 - 3 - 100
+Yannick Jadot - 4 - 33 43 5 5 2 4 4 - 100
+Emmanuel Macron - 3 - 1 18 13 42 9 - 13 1 100
+Valérie Pécresse - 5 - - 3 4 17 50 3 18 - 100
+Marine Le Pen - - - - 1 - 1 3 - 94 1 100
+Eric Zemmour - - - - - - 1 7 - 35 57 100
+(+4)
+(-8) (+8)
+(+4)
+(+11) (-6)
+(-8)
+(-8)
+(+11)
+(-8)
+(-9)
+(+15)
+(+3)
+
+=== PAGE PDF 13 ===
+13
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Intentions de vote pour le premier tour de l’élection présidentielle 2027
+Hypothèse : E. Philippe
+Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 7%
+Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats suivants, quel est 
+celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour ? 
+Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 1 060 personnes.
+0,5%
+17%
+2%
+3,5%
+14%
+15%
+8%
+2%
+33,5%
+4,5%
+Marges d’erreur
++/- 0,4 point
++/- 2,3 points
++/- 0,8 point
++/- 1,1 point
++/- 2,1 points
++/- 2,1 points
++/- 1,6 point
++/- 0,8 point
++/- 2,8 points
++/- 1,2 point
+Nathalie Arthaud
+Jean-Luc Mélenchon
+Fabien Roussel
+Marine Tondelier
+Raphaël Glucksmann
+Edouard Philippe
+Bruno Retailleau
+Nicolas Dupont-Aignan
+Marine Le Pen
+Eric Zemmour
+* /!\ Jordan Bardella était testé à la place de Marine Le Pen à 
+cette vague. Les comparaisons sont à prendre avec précaution. 
+Rappels Le Parisien
+Septembre 
+2026
+Juin 
+2026
+0,5% 1%
+15% 13%
+2,5% 3%
+4% 4%
+12% 13%
+19% 17,5%
+7,5% 9%
+2% 1,5%
+34,5% 34%*
+3% 4%
+
+=== PAGE PDF 14 ===
+14
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Les transferts de vote depuis 2022
+Hypothèse : E. Philippe
+Note de lecture : 61% des électeurs de J.-L. Mélenchon au 1er tour de l’élection présidentielle de 2022 voteraient pour J.-L. Mélenchon au 1er tour de l’élection présidentielle de 
+2027 (s’ils allaient voter et s’exprimaient en 2027), soit 5 points de plus aujourd’hui que depuis la dernière vague en septembre 2026.
+VOTE 1ER TOUR 
+2027  Nathalie 
+Arthaud
+Jean-Luc 
+Mélenchon
+Fabien 
+Roussel
+Marine 
+Tondelier
+Raphaël 
+Glucksmann
+Edouard 
+Philippe
+Bruno 
+Retailleau
+Nicolas 
+Dupont-
+Aignan
+Marine 
+Le Pen
+Eric
+Zemmour TOTAL
+ VOTE 1ER TOUR 
+2022
+Jean-Luc Mélenchon - 61 4 9 20 - 2 - 4 - 100
+Yannick Jadot - 7 3 28 46 5 3 4 4 - 100
+Emmanuel Macron - 3 - 1 21 49 10 1 14 1 100
+Valérie Pécresse - 5 - - 3 18 53 3 18 - 100
+Marine Le Pen - - - - 1 1 4 - 93 1 100
+Eric Zemmour - - - - - 1 7 1 36 55 100
+(+5) (+5)
+(+14)
+(-9)
+(+12) (-12)
+(+17)
+(-12)
+(-5)
+(+3)
+
+=== PAGE PDF 15 ===
+15
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Intentions de vote pour le premier tour de l’élection présidentielle 2027
+Hypothèse : G. Attal
+Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 8%
+Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats suivants, quel est 
+celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour ? 
+Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 1 048 personnes.
+0,5%
+17%
+2,5%
+3,5%
+15,5%
+9,5%
+11,5%
+2%
+33,5%
+4,5%
+Nathalie Arthaud
+Jean-Luc Mélenchon
+Fabien Roussel
+Marine Tondelier
+Raphaël Glucksmann
+Gabriel Attal
+Bruno Retailleau
+Nicolas Dupont-Aignan
+Marine Le Pen
+Eric Zemmour
+Marges d’erreur
++/- 0,4 point
++/- 2,3 points
++/- 0,9 point
++/- 1,1 point
++/- 2,2 points
++/- 1,8 point
++/- 1,9 point
++/- 0,8 point
++/- 2,9 points
++/- 1,3 point
+* /!\ Jordan Bardella était testé à la place de Marine Le Pen à 
+cette vague. Les comparaisons sont à prendre avec précaution. 
+Rappels Le Parisien
+Septembre 
+2026
+Juin 
+2026
+0,5% 1%
+15% 13%
+2,5% 3%
+4% 4%
+14% 14%
+14% 14,5%
+9,5% 10%
+2,5% 1,5%
+35% 35%*
+3% 4%
+
+=== PAGE PDF 16 ===
+16
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Les transferts de vote depuis 2022
+Hypothèse : G. Attal.
+Note de lecture : 60% des électeurs de J.-L. Mélenchon au 1er tour de l’élection présidentielle de 2022 voteraient pour J.-L. Mélenchon au 1er tour de l’élection présidentielle 
+de 2027 (s’ils allaient voter et s’exprimaient en 2027) , soit 5 points de plus aujourd’hui que depuis la dernière vague en septembre 2026.
+VOTE 1ER TOUR 
+2027  Nathalie 
+Arthaud
+Jean-Luc 
+Mélenchon
+Fabien 
+Roussel
+Marine 
+Tondelier
+Raphaël 
+Glucksmann
+Gabriel 
+Attal
+Bruno 
+Retailleau
+Nicolas 
+Dupont-
+Aignan
+Marine 
+Le Pen
+Eric
+Zemmour TOTAL
+ VOTE 1ER TOUR 
+2022
+Jean-Luc Mélenchon - 60 6 9 18 - 2 - 5 - 100
+Yannick Jadot - 6 2 29 43 10 2 4 4 - 100
+Emmanuel Macron 1 4 - 1 29 31 18 2 13 1 100
+Valérie Pécresse - 4 - - 5 8 64 3 16 - 100
+Marine Le Pen - - - - 1 - 5 - 92 2 100
+Eric Zemmour - - - - - - 9 - 36 55 100
+(+5)
+(+9)
+(-13)
+(+8) (-10)
+(+7)
+(-7)
+(-7)
+(+17)
+
+=== PAGE PDF 17 ===
+17
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Intentions de vote pour le premier tour de l’élection présidentielle 2027
+Hypothèse : E. Philippe et D. Lisnard
+Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 6%
+Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats suivants, quel est 
+celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour ? 
+Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 1 069 personnes.
+0,5%
+17%
+2,5%
+3,5%
+13%
+14%
+5,5%
+6,5%
+1,5%
+32%
+4%
+Marges d’erreur
++/- 0,4 point
++/- 2,3 points
++/- 0,9 point
++/- 1,1 point
++/- 2 points
++/- 2,1 points
++/- 1,4 point
++/- 1,5 point
++/- 0,7 point
++/- 2,8 points
++/- 1,2 point
+Nathalie Arthaud
+Jean-Luc Mélenchon
+Fabien Roussel
+Marine Tondelier
+Raphaël Glucksmann
+Edouard Philippe
+Bruno Retailleau
+David Lisnard
+Nicolas Dupont-Aignan
+Marine Le Pen
+Eric Zemmour
+
+=== PAGE PDF 18 ===
+18
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Les transferts de vote depuis 2022
+Hypothèse : E. Philippe et D. Lisnard
+Note de lecture : 60% des électeurs de J.-L. Mélenchon au 1er tour de l’élection présidentielle de 2022 voteraient pour J.-L. Mélenchon au 1er tour de l’élection présidentielle de 
+2027 (s’ils allaient voter et s’exprimaient en 2027). 
+VOTE 1ER TOUR 
+2027  Nathalie 
+Arthaud
+Jean-Luc 
+Mélenchon
+Fabien 
+Roussel
+Marine 
+Tondelier
+Raphaël 
+Glucksmann
+Edouard 
+Philippe
+Bruno 
+Retailleau
+David 
+Lisnard
+Nicolas 
+Dupont-
+Aignan
+Marine 
+Le Pen
+Eric
+Zemmour TOTAL
+ VOTE 1ER TOUR 
+2022
+Jean-Luc 
+Mélenchon - 60 6 10 17 - - 2 - 5 - 100
+Yannick Jadot - 4 5 30 45 5 3 - 4 4 - 100
+Emmanuel Macron - 3 - 1 19 47 8 10 - 11 1 100
+Valérie Pécresse - 1 - - 3 16 38 26 3 12 1 100
+Marine Le Pen - - - - 1 - 3 2 - 93 1 100
+Eric Zemmour - - - - - 1 3 17 - 28 51 100
+
+=== PAGE PDF 19 ===
+19
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+L’OPINION DES FRANÇAIS 
+SUR LES VIOLENCES DU 17 
+OCTOBRE 2026
+
+=== PAGE PDF 20 ===
+20
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Les sentiments ressentis suite aux évènements du 17 octobre
+Question : Quand vous pensez aux évènements du 17 octobre et aux violences qui ont eu lieu ce jour-là ainsi que le 18, quels sont les sentiments 
+que vous ressentez le plus ?
+Base : Ensemble de l’échantillon – Total supérieur à 100 car 2 étaient réponses possibles
+58
+37
+33
+20
+17
+6
+5
+3
+2
+Colère
+Inquiétude
+Honte
+Tristesse
+Incompréhension
+Espoir
+Découragement
+Satisfaction
+Indifférence
+
+=== PAGE PDF 21 ===
+21
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Détail selon l’âge
+Question : Quand vous pensez aux évènements du 17 octobre et aux violences qui ont eu lieu ce jour-là ainsi que le 18, quels sont les sentiments 
+que vous ressentez le plus ?
+Base : Ensemble de l’échantillon – Total supérieur à 100 car 2 étaient réponses possibles
+39
+44
+31
+17
+13
+20
+6
+8
+3
+Colère
+Inquiétude
+Honte
+Tristesse
+Incompréhension
+Espoir
+Découragement
+Satisfaction
+Indifférence
+55
+34
+30
+25
+14
+11
+6
+3
+3
+55
+36
+27
+23
+16
+7
+7
+5
+3
+60
+30
+38
+21
+20
+5
+5
+2
+2
+67
+37
+35
+17
+18
+2
+5
+64
+42
+37
+18
+21
+3
+1
+18 – 24 ans 25 – 34 ans 35 – 49 ans 50 – 59 ans 60 – 69 ans 70 ans et plus
+-
+-
+-
+-
+
+=== PAGE PDF 22 ===
+22
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Détail selon la proximité politique
+Question : Quand vous pensez aux évènements du 17 octobre et aux violences qui ont eu lieu ce jour-là ainsi que le 18, quels sont les sentiments 
+que vous ressentez le plus ?
+Base : Ensemble de l’échantillon – Total supérieur à 100 car 2 étaient réponses possibles
+Colère
+Inquiétude
+Honte
+Tristesse
+Incompréhension
+Espoir
+Découragement
+Satisfaction
+Indifférence
+33
+38
+11
+23
+12
+33
+7
+12
+3
+28
+39
+25
+30
+28
+8
+5
+2
+4
+39
+47
+27
+29
+25
+2
+8
+3
+67
+39
+42
+13
+21
+1
+3
+1
+1
+76
+33
+36
+19
+15
+2
+6
+70
+34
+43
+19
+12
+3
+3
+1
+1
+-
+--
+62
+34
+33
+19
+20
+3
+7
+3
+2
+Aucun 
+parti
+
+=== PAGE PDF 23 ===
+23
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+L’opinion sur la capacité des pouvoirs publics à éviter les violences
+Question : Et avez-vous le sentiment que ces violences…?
+Base : Ensemble de l’échantillon
+ … auraient pu être évitées grâce à une meilleure 
+anticipation de la part des pouvoirs publics
+ … n’auraient pas pu être évitées du fait du 
+nombre et de la violence des casseurs  Vous ne savez vraiment pas
+5831
+11
+56
+63
+60
+61
+63
+49
+80
+58
+59
+33
+48
+68
+50
+27
+24
+29
+32
+30
+39
+10
+23
+31
+54
+40
+26
+35
+17
+13
+11
+7
+7
+12
+10
+19
+10
+13
+12
+6
+15
+18-24 ans
+25 – 34 ans
+35 – 49 ans
+50 – 59 ans
+60 – 69 ans
+70 ans et plus
+LFI
+Les Ecologistes
+PS / Place Publique
+Renaissance-MoDem-Horizons
+LR-UDI
+RN
+Aucun parti
+Détail selon la proximité politique
+Détail selon l’âge
+
+=== PAGE PDF 24 ===
+24
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+La responsabilité des différents acteurs dans les évènements du 17 octobre
+Question : Pour chacun des acteurs suivants, dans quelle mesure diriez-vous qu’ils sont responsables de cette situation ?
+Base : Ensemble de l’échantillon
+ Tout à fait responsable  Plutôt responsable  Plutôt pas responsable  Pas du tout responsable  Vous ne savez vraiment pas
+50
+58
+40
+22
+31
+21
+22
+30
+11
+7
+12
+23
+4
+8
+21
+19
+4
+6
+5
+6
+% 
+Responsable
+% 
+Pas responsable
+81 15
+79 15
+62 33
+52 42
+Le gouvernement qui n'a pas suffisamment répondu aux 
+revendications sociales d'une partie des Français
+Les groupes politiques radicaux qui encouragent des 
+affrontements avec les forces de l'ordre
+Les partis politiques de gauche qui ont appelé à 
+manifester samedi dernier
+Les forces de l’ordre qui n’ont pas suffisamment anticipé 
+l’ampleur et la nature du mouvement
+
+=== PAGE PDF 25 ===
+25
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Détail selon la proximité politique
+Question : Pour chacun des acteurs suivants, dans quelle mesure diriez-vous qu’ils sont responsables de cette situation ?
+Base : Ensemble de l’échantillon
+% Responsable
+Ensemble Symp.
+FI
+Symp. 
+Les 
+Ecologistes
+Symp. 
+PS/PP
+Symp. Ren. -
+Horizons -
+MoDem
+Symp.
+LR-UDI
+Symp.
+RN
+Aucun 
+parti
+Le gouvernement qui n'a pas suffisamment répondu aux 
+revendications sociales d'une partie des Français 81 96 89 88 50 77 85 76
+Les groupes politiques radicaux qui encouragent des 
+affrontements avec les forces de l'ordre 79 28 73 80 95 97 91 81
+Les partis politiques de gauche qui ont appelé à 
+manifester samedi dernier 62 13 33 40 81 91 85 60
+Les forces de l’ordre qui n’ont pas suffisamment 
+anticipé l’ampleur et la nature du mouvement 52 78 69 69 41 39 40 48
+
+
+=== PAGE PDF 26 ===
+26
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+La responsabilité perçue de la France insoumise dans les violences du 17 octobre 
+Question : Certains disent que la France Insoumise a une responsabilité dans les violences qui sont survenues les 17 et 18 octobre, d’autres 
+qu’elle n’a pas de responsabilité. A ce sujet, avec laquelle des opinions suivantes êtes-vous le plus proche ?
+Base : Ensemble de l’échantillon
+ La France Insoumise a directement contribué à 
+renforcer les tensions et à attiser les violences
+ La France Insoumise n’a pas directement contribué à 
+renforcer les tensions et à attiser les violences, mais les 
+propos de certains de ses dirigeants les ont légitimées
+ La France insoumise n’a pas joué de rôle 
+particulier dans ces violences
+55
+24
+21
+39
+38
+49
+57
+60
+73
+4
+23
+28
+80
+85
+79
+52
+29
+29
+27
+20
+27
+18
+11
+42
+44
+18
+15
+17
+31
+32
+33
+24
+23
+13
+9
+85
+35
+28
+2
+4
+17
+18-24 ans
+25 – 34 ans
+35 – 49 ans
+50 – 59 ans
+60 – 69 ans
+70 ans et plus
+LFI
+Les Ecologistes
+PS / Place Publique
+Renaissance-MoDem-Horizons
+LR-UDI
+RN
+Aucun parti
+Détail selon la proximité politique
+Détail selon l’âge
+
+=== PAGE PDF 27 ===
+27
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+L’opinion sur l’attitude de différentes personnalités politiques suite aux évènements 
+du 17 octobre
+Question :  Face à ces violences, diriez-vous que chacune des personnalités politiques suivantes à la bonne attitude depuis samedi dernier ?
+Base : Ensemble de l’échantillon
+ Oui, tout à fait  Oui, plutôt  Non, plutôt pas  Non, pas du tout  Vous ne savez vraiment pas
+62
+59
+35
+38
+42
+36
+32
+28
+31
+30
+18
+12
+26
+20
+16
+22
+21
+21
+16
+13
+8
+10
+18
+16
+12
+16
+18
+18
+21
+21
+4
+7
+5
+4
+2
+2
+3
+2
+6
+17
+8
+12
+16
+22
+28
+24
+26
+31
+26
+19
+% 
+Non
+% 
+Oui
+80 12
+71 17
+61 23
+58 20
+58 14
+58 18
+53 21
+49 20
+47 27
+43 38
+Emmanuel Macron
+Jean-Luc Mélenchon
+Sébastien Lecornu
+Laurent Nunez
+Marine Tondelier
+Gabriel Attal
+Edouard Philippe
+Raphael Glucksmann
+Bruno Retailleau
+Marine Le Pen
+
+=== PAGE PDF 28 ===
+28
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+% Non
+Ensemble Symp.
+FI
+Symp. 
+Les 
+Ecologistes
+Symp. 
+PS/PP
+Symp. Ren. -
+Horizons –
+MoDem
+Symp.
+LR-UDI
+Symp.
+RN
+Aucun 
+parti
+Emmanuel Macron 80 91 81 82 54 79 88 72
+Jean-Luc Mélenchon 71 13 55 70 95 93 87 66
+Sébastien Lecornu 61 85 70 61 30 58 64 53
+Laurent Nunez 58 80 58 60 29 51 62 51
+Marine Tondelier 58 32 21 42 74 85 74 51
+Gabriel Attal 58 79 64 56 31 45 65 48
+Edouard Philippe 53 69 59 53 16 39 61 46
+Raphael Glucksmann 49 66 33 24 35 59 60 41
+Bruno Retailleau 47 79 64 64 41 15 39 43
+Marine Le Pen 43 79 76 68 60 29 7 43
+Détail par proximité politique
+Question :  Face à ces violences, diriez-vous que chacune des personnalités politiques suivantes à la bonne attitude depuis samedi dernier ?
+Base : Ensemble de l’échantillon
+
+=== PAGE PDF 29 ===
+29
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+ANNEXES
+
+=== PAGE PDF 30 ===
+30
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+Ipsos est membre des organismes professionnels français et 
+européens des études de marché et d’opinion suivants : 
+SYNTEC (syndicat professionnel des sociétés d’études de 
+marché en france ; www.Syntec-etudes.Com )
+ESOMAR (European Society for Opinion and  Market Research, 
+www.Esomar.Org)
+CODES PROFESSIONNELS, CERTIFICATION QUALITE
+CONSERVATION ET PROTECTION DES DONNEES
+Nos engagements
+Ipsos France est certifiée  ISO 20252 : 
+ Market Research - version 2019 
+ par AFNOR CERTIFICATION
+Ce document est élaboré dans le respect de ces codes et normes 
+internationales.
+Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels des 
+études de marché et établit les mesures de protection dont bénéficient les personnes interrogées. 
+Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement Général 
+sur la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des données 
+personnelles : https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement contractuel 
+spécifique :
+• de 12 mois suivant la date de fin d’une étude Ad Hoc .
+• de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+
+=== PAGE PDF 31 ===
+31
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+En l’occurrence s’agissant de cette étude : 
+• Intervalle de confiance : 95%
+• Taille d’échantillon : 1500
+Les proportions observées sont comprises entre  :
+Feuille de calcul 
+Fiabilité des résultats
+1% 2% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+Borne Supérieure (%) 1,5% 2,7% 6,1% 11,5% 16,8% 22,0% 27,2% 32,3% 37,4% 42,5% 47,5% 52,5% 57,5% 62,5% 67,4% 72,3% 77,2% 82,0% 86,8% 91,5% 96,1% 98,7% 99,5%
+Proportion observée (%) 1% 2% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+Borne Inférieure (%) 0,5% 1,3% 3,9% 8,5% 13,2% 18,0% 22,8% 27,7% 32,6% 37,5% 42,5% 47,5% 52,5% 57,5% 62,6% 67,7% 72,8% 78,0% 83,2% 88,5% 93,9% 97,3% 98,5%
+Borne Supérieure (%) Proportion observée (%) Borne Inférieure (%)
+
+=== PAGE PDF 32 ===
+32
+©Ipsos bva CESI école d’ingénieurs pour Le Parisien | Intentions de vote à l'élection présidentielle de 2027 | Octobre 2026
+EN AMONT DU RECUEIL
+• Echantillon : structure et représentativité
+• Questionnaire : le questionnaire est rédigé en suivant un process de 
+rédaction comprenant 12 standards obligatoires. Il est relu et validé par un 
+niveau senior puis envoyé au client pour validation finale. La programmation 
+(ou script du questionnaire) est testée par au moins 2 personnes puis 
+validée.
+LORS DU RECUEIL
+• Echantillonnage : Ipsos impose des règles d’exploitation très strictes de ses 
+bases de tirages afin de maximiser le caractère aléatoire de la sélection de 
+l’échantillon: tirage aléatoire, taux de sollicitation, taux de participation, 
+abandon en cours, hors cible…
+• Suivi du terrain : La collecte est suivie et contrôlée (pénétration, durée 
+d’interview, cohérence des réponses, suivi du comportement du répondant, 
+taux de participation, nombre de relances,…). 
+EN AVAL DU RECUEIL
+• Les résultats sont analysés en respectant les méthodes d’analyses 
+statistiques (intervalle de confiance versus taille d’échantillon, tests de 
+significativité). Les premiers résultats sont systématiquement contrôlés 
+versus les résultats bruts issus de la collecte. La cohérence des résultats est 
+aussi contrôlée (notamment les résultats observés versus les sources de 
+comparaison en notre possession).
+• Dans le cas d’une pondération de l’échantillon (méthode de calage sur marges), 
+celle-ci est contrôlée par les équipes de traitement (DP) puis validée par les 
+équipes études.
+La fiabilité globale d’une enquête est le résultat du contrôle de toutes les composantes d’erreurs, c’est pourquoi Ipsos 
+impose des contrôles et des procédures strictes à toutes les phases de l’étude.
+Suivi du terrain : La collecte est suivie et contrôlée (pénétration, durée 
+d’interview, cohérence des réponses, suivi du comportement du 
+répondant, taux de participation, nombre de relances,…). 
+Fiabilité des résultats :
+Études auto-administrées online 
+
+=== PAGE PDF 33 ===
+33©Ipsos | La préparation des élections municipales à Paris | Juin 2025
+À PROPOS D’IPSOS
+Ipsos est l’un des leaders mondiaux des études de marché et des 
+sondages d’opinion, présent dans 90 marchés et comptant près 
+de 20 000 collaborateurs. 
+Nos chercheurs, analystes et scientifiques sont passionnément 
+curieux et ont développé des capacités multi-spécialistes qui 
+permettent de fournir des informations et des analyses poussées 
+sur les actions, les opinions et les motivations des citoyens, des 
+consommateurs, des patients, des clients et des employés. 
+Nos 75 solutions s’appuient sur des données primaires provenant 
+de nos enquêtes, de notre suivi des réseaux sociaux et de 
+techniques qualitatives ou observationnelles.  
+Notre signature « Game Changers » résume bien notre ambition 
+d’aider nos 5 000 clients à évoluer avec confiance dans un monde 
+en rapide évolution.  
+Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le 
+1er juillet 1999. L’entreprise fait partie des indices SBF 120 et Mid-
+60 et est éligible au service de règlement différé (SRD). 
+ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP 
+www.ipsos.com
+GAME CHANGERS
+Dans un monde qui évolue rapidement, s’appuyer sur des 
+données fiables pour prendre les bonnes décisions n’a jamais été 
+aussi important.
+Chez Ipsos, nous sommes convaincus que nos clients cherchent 
+plus qu’un simple fournisseur de données. Ils ont besoin d’un 
+véritable partenaire qui leur procure des informations précises et 
+pertinentes, et les transforme en connaissances pour leur 
+permettre de passer à l’action.
+Voilà pourquoi nos experts, curieux et passionnés, délivrent les 
+mesures les plus exactes pour en extraire l’information qui 
+permettra d’avoir une vraie compréhension de la Société, des 
+Marchés et des Individus.
+Nous mêlons notre savoir-faire au meilleur des sciences et de la 
+technologie, et appliquons nos quatre principes de sécurité, 
+simplicité, rapidité et de substance à tout ce que nous 
+produisons.
+Pour permettre à nos clients d’agir avec plus de rapidité, 
+d’ingéniosité et d’audace.
+La clef du succès se résume par une vérité simple :
+You act better when you are sure.

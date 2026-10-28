@@ -1,0 +1,389 @@
+{
+  "snapshot_date": "2026-10-28",
+  "metric": "Intention de vote au premier tour, % exprimés",
+  "reference_scenario": "cluster17-2026-10-26/H1",
+  "priority_rule": "Cinq premiers du scénario H1 de la dernière vague publiée retenue ; choix documentaire conditionnel. Attal ajouté en complément car absent de H1 et à 12 % dans H2.",
+  "limitations": [
+    "Pas de moyenne de scénarios incompatibles ni de score de popularité générale.",
+    "Une absence dans ce corpus de quatre enquêtes ne démontre pas une absence dans tous les sondages.",
+    "Les fourchettes sont des écarts entre scénarios et instituts, pas des intervalles de confiance.",
+    "Les scores sont affectés des marges décrites dans chaque notice.",
+    "Le rang de référence n’est attribué qu’aux personnes testées dans ce scénario."
+  ],
+  "polls": [
+    {
+      "id": "cluster17-2026-10-26",
+      "source_id": "sondage-cluster17-10339",
+      "institute": "Cluster17",
+      "commissioner": "POLITICO",
+      "publication_date": "2026-10-26",
+      "fieldwork_start": "2026-10-19",
+      "fieldwork_end": "2026-10-22",
+      "sample_adults": 3000,
+      "sample_registered": 2817,
+      "method": "En ligne, quotas et redressements sociodémographiques et politiques",
+      "methodology_pdf_pages": [
+        2,
+        3
+      ],
+      "margin_note": "Table p. 3 : pour bases utiles 1889 à 1920, environ ±1,0 point à 5 %, ±1,3 à 10 %, ±1,8 à 20 %, ±2,0 à 30 %, ±2,2 à 40–50 %. Indications théoriques publiées par l’institut.",
+      "scenarios": [
+        {
+          "id": "H1",
+          "label": "Philippe et Glucksmann ; sans Attal, Lisnard et Hollande",
+          "pdf_page": 18,
+          "effective_base": 1920,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 18.5,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 13,
+            "edouard-philippe": 16,
+            "bruno-retailleau": 8,
+            "nicolas-dupont-aignan": 3,
+            "marine-le-pen": 33,
+            "eric-zemmour": 4
+          }
+        },
+        {
+          "id": "H2",
+          "label": "Attal et Glucksmann ; sans Philippe, Lisnard et Hollande",
+          "pdf_page": 19,
+          "effective_base": 1889,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 19.5,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 14,
+            "gabriel-attal": 12,
+            "bruno-retailleau": 10,
+            "nicolas-dupont-aignan": 3.5,
+            "marine-le-pen": 32.5,
+            "eric-zemmour": 4
+          }
+        },
+        {
+          "id": "H3",
+          "label": "Philippe, Lisnard et Hollande ; sans Attal et Glucksmann",
+          "pdf_page": 20,
+          "effective_base": 1917,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 19.5,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2.5,
+            "edouard-philippe": 17,
+            "david-lisnard": 8,
+            "francois-hollande": 6.5,
+            "bruno-retailleau": 7,
+            "nicolas-dupont-aignan": 3,
+            "marine-le-pen": 30.5,
+            "eric-zemmour": 3.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "ipsos-2026-10-24",
+      "source_id": "sondage-ipsos-10338",
+      "institute": "Ipsos bva CESI école d’ingénieurs",
+      "commissioner": "Le Parisien",
+      "publication_date": "2026-10-24",
+      "fieldwork_start": "2026-10-21",
+      "fieldwork_end": "2026-10-22",
+      "sample_adults": null,
+      "sample_registered": 1500,
+      "method": "En ligne, quotas et redressements ; inscrits certains d’aller voter et exprimés",
+      "methodology_pdf_pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "margin_note": "Marges par candidat sur les pages de chaque hypothèse ; jusqu’à ±2,9 points selon la valeur et la base.",
+      "scenarios": [
+        {
+          "id": "H1",
+          "label": "Attal et Philippe",
+          "pdf_page": 11,
+          "effective_base": 1057,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2,
+            "marine-tondelier": 3.5,
+            "raphael-glucksmann": 13,
+            "gabriel-attal": 4,
+            "edouard-philippe": 13,
+            "bruno-retailleau": 7.5,
+            "nicolas-dupont-aignan": 1.5,
+            "marine-le-pen": 33.5,
+            "eric-zemmour": 4.5
+          },
+          "margins": {
+            "nathalie-arthaud": 0.4,
+            "jean-luc-melenchon": 2.3,
+            "fabien-roussel": 0.8,
+            "marine-tondelier": 1.1,
+            "raphael-glucksmann": 2,
+            "gabriel-attal": 1.2,
+            "edouard-philippe": 2,
+            "bruno-retailleau": 1.6,
+            "nicolas-dupont-aignan": 0.7,
+            "marine-le-pen": 2.8,
+            "eric-zemmour": 1.2
+          }
+        },
+        {
+          "id": "H2",
+          "label": "Philippe candidat unique du centre",
+          "pdf_page": 13,
+          "effective_base": 1060,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2,
+            "marine-tondelier": 3.5,
+            "raphael-glucksmann": 14,
+            "edouard-philippe": 15,
+            "bruno-retailleau": 8,
+            "nicolas-dupont-aignan": 2,
+            "marine-le-pen": 33.5,
+            "eric-zemmour": 4.5
+          },
+          "margins": {
+            "nathalie-arthaud": 0.4,
+            "jean-luc-melenchon": 2.3,
+            "fabien-roussel": 0.8,
+            "marine-tondelier": 1.1,
+            "raphael-glucksmann": 2.1,
+            "edouard-philippe": 2.1,
+            "bruno-retailleau": 1.6,
+            "nicolas-dupont-aignan": 0.8,
+            "marine-le-pen": 2.8,
+            "eric-zemmour": 1.2
+          }
+        },
+        {
+          "id": "H3",
+          "label": "Attal candidat unique du centre",
+          "pdf_page": 15,
+          "effective_base": 1048,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2.5,
+            "marine-tondelier": 3.5,
+            "raphael-glucksmann": 15.5,
+            "gabriel-attal": 9.5,
+            "bruno-retailleau": 11.5,
+            "nicolas-dupont-aignan": 2,
+            "marine-le-pen": 33.5,
+            "eric-zemmour": 4.5
+          },
+          "margins": {
+            "nathalie-arthaud": 0.4,
+            "jean-luc-melenchon": 2.3,
+            "fabien-roussel": 0.9,
+            "marine-tondelier": 1.1,
+            "raphael-glucksmann": 2.2,
+            "gabriel-attal": 1.8,
+            "bruno-retailleau": 1.9,
+            "nicolas-dupont-aignan": 0.8,
+            "marine-le-pen": 2.9,
+            "eric-zemmour": 1.3
+          }
+        },
+        {
+          "id": "H4",
+          "label": "Philippe et Lisnard ; sans Attal",
+          "pdf_page": 17,
+          "effective_base": 1069,
+          "values": {
+            "nathalie-arthaud": 0.5,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2.5,
+            "marine-tondelier": 3.5,
+            "raphael-glucksmann": 13,
+            "edouard-philippe": 14,
+            "david-lisnard": 6.5,
+            "bruno-retailleau": 5.5,
+            "nicolas-dupont-aignan": 1.5,
+            "marine-le-pen": 32,
+            "eric-zemmour": 4
+          },
+          "margins": {
+            "nathalie-arthaud": 0.4,
+            "jean-luc-melenchon": 2.3,
+            "fabien-roussel": 0.9,
+            "marine-tondelier": 1.1,
+            "raphael-glucksmann": 2,
+            "edouard-philippe": 2.1,
+            "david-lisnard": 1.5,
+            "bruno-retailleau": 1.4,
+            "nicolas-dupont-aignan": 0.7,
+            "marine-le-pen": 2.8,
+            "eric-zemmour": 1.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "harris-2026-10-23",
+      "source_id": "sondage-harris-10332",
+      "institute": "Toluna Harris Interactive",
+      "commissioner": "M6 et RTL",
+      "publication_date": "2026-10-23",
+      "fieldwork_start": "2026-10-19",
+      "fieldwork_end": "2026-10-21",
+      "sample_adults": 2500,
+      "sample_registered": 2094,
+      "method": "En ligne, quotas et redressements ; inscrits certains d’aller voter et exprimés",
+      "methodology_pdf_pages": [
+        3,
+        4
+      ],
+      "margin_note": "Les pages de résultats annoncent ±1,4 à ±2,9 points ; la méthodologie générale p. 3 indique ±1,4 à ±3,1 points. Écart interne conservé.",
+      "scenarios": [
+        {
+          "id": "H1",
+          "label": "Philippe, Villepin et Lisnard ; sans Attal",
+          "pdf_page": 35,
+          "effective_base": 1372,
+          "values": {
+            "nathalie-arthaud": 1,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 12,
+            "edouard-philippe": 15,
+            "dominique-de-villepin": 1,
+            "david-lisnard": 7,
+            "bruno-retailleau": 4,
+            "nicolas-dupont-aignan": 1,
+            "marine-le-pen": 33,
+            "eric-zemmour": 5
+          }
+        },
+        {
+          "id": "H2",
+          "label": "Attal, Villepin et Lisnard ; sans Philippe",
+          "pdf_page": 37,
+          "effective_base": 1357,
+          "values": {
+            "nathalie-arthaud": 1,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 14,
+            "gabriel-attal": 10,
+            "dominique-de-villepin": 2,
+            "david-lisnard": 8,
+            "bruno-retailleau": 5,
+            "nicolas-dupont-aignan": 1,
+            "marine-le-pen": 33,
+            "eric-zemmour": 5
+          }
+        },
+        {
+          "id": "H3",
+          "label": "Attal et Philippe",
+          "pdf_page": 39,
+          "effective_base": 1360,
+          "values": {
+            "nathalie-arthaud": 1,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 1,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 12,
+            "gabriel-attal": 5,
+            "edouard-philippe": 13,
+            "bruno-retailleau": 6,
+            "nicolas-dupont-aignan": 2,
+            "marine-le-pen": 35,
+            "eric-zemmour": 6
+          }
+        },
+        {
+          "id": "H4",
+          "label": "Philippe candidat unique du centre",
+          "pdf_page": 42,
+          "effective_base": 1343,
+          "values": {
+            "nathalie-arthaud": 1,
+            "jean-luc-melenchon": 17,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 13,
+            "edouard-philippe": 16,
+            "bruno-retailleau": 7,
+            "nicolas-dupont-aignan": 2,
+            "marine-le-pen": 35,
+            "eric-zemmour": 5
+          }
+        },
+        {
+          "id": "H5",
+          "label": "Attal candidat unique du centre",
+          "pdf_page": 45,
+          "effective_base": 1323,
+          "values": {
+            "nathalie-arthaud": 1,
+            "jean-luc-melenchon": 19,
+            "fabien-roussel": 2,
+            "marine-tondelier": 2,
+            "raphael-glucksmann": 13,
+            "gabriel-attal": 11,
+            "bruno-retailleau": 9,
+            "nicolas-dupont-aignan": 2,
+            "marine-le-pen": 35,
+            "eric-zemmour": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "opinionway-2026-10-22",
+      "source_id": "sondage-opinionway-10333",
+      "institute": "OpinionWay",
+      "commissioner": "CNEWS",
+      "publication_date": "2026-10-22",
+      "fieldwork_start": "2026-10-21",
+      "fieldwork_end": "2026-10-22",
+      "sample_adults": 1033,
+      "sample_registered": 973,
+      "method": "CAWI, quotas ; colonne Publié, certains d’aller voter (notes 9 et 10)",
+      "methodology_pdf_pages": [
+        2,
+        3,
+        4
+      ],
+      "margin_note": "Table p. 4 : sur 731 certains d’aller voter, ±1,6 à ±3,7 points selon le score ; base exprimée 680. Reprendre la mention Sondage OpinionWay pour CNEWS. Couverture et métadonnées portent encore Septembre : le terrain et le registre établissent octobre.",
+      "scenarios": [
+        {
+          "id": "H1",
+          "label": "Attal, Philippe, Lisnard et Bouamrane",
+          "pdf_page": 12,
+          "effective_base": 680,
+          "values": {
+            "nathalie-arthaud": "<1",
+            "jean-luc-melenchon": 16,
+            "fabien-roussel": 1,
+            "marine-tondelier": 1,
+            "raphael-glucksmann": 13,
+            "karim-bouamrane": "<1",
+            "gabriel-attal": 4,
+            "edouard-philippe": 12,
+            "bruno-retailleau": 6,
+            "david-lisnard": 6,
+            "nicolas-dupont-aignan": 1,
+            "marine-le-pen": 36,
+            "eric-zemmour": 4
+          }
+        }
+      ]
+    }
+  ]
+}

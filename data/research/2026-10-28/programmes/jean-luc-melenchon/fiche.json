@@ -1,0 +1,19 @@
+{
+  "candidate_id": "jean-luc-melenchon",
+  "name": "Jean-Luc Mélenchon",
+  "priority": "reference_top5",
+  "financial_document_status": "personal_2027_budget_orientations_found_partial_costing",
+  "programme_scope": "Orientations budgétaires 2027 et plan thématique sur le pôle public bancaire",
+  "source_ids": [
+    "melenchon-programme-index",
+    "melenchon-comptes-publics",
+    "melenchon-pole-bancaire",
+    "melenchon-laec-index"
+  ],
+  "primary_source_id": "melenchon-comptes-publics",
+  "findings": "Deux PDF officiels conservés : Comment nous allons remettre de l’ordre dans les comptes publics (24 pages), et dossier pôle public bancaire (16 pages). La page de campagne rattache ces documents au programme et annonce le livre pour le 6 novembre.",
+  "limits": "La page officielle précise que les orientations 2027 ne constituent pas le chiffrage complet de L’Avenir en commun sur plusieurs années. La date exacte de publication du PDF n’est pas établie par son seul chemin /2026/10/. Le livre intégral 2027 n’a pas été téléchargé.",
+  "useful_locations": "Comptes publics : sommaire p. 3 ; dépenses et urgences p. 8–12 ; ressources p. 13–14 ; investissement p. 15–16 ; stratégie budgétaire p. 17–18 ; financement p. 19–20. Vérifier chaque passage avant extraction de mesure.",
+  "snapshot_date": "2026-10-28",
+  "analysis_status": "collected_not_independently_evaluated"
+}

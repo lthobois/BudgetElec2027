@@ -1,0 +1,22 @@
+{
+  "candidate_id": "gabriel-attal",
+  "name": "Gabriel Attal",
+  "priority": "scenario_sensitivity_complement",
+  "financial_document_status": "personal_2027_debt_reduction_plan_found_html",
+  "programme_scope": "Plan de désendettement, propositions dette et travail, présentation de lettre aux Français",
+  "source_ids": [
+    "attal-programme-index",
+    "attal-dette-etat",
+    "attal-travail-salaires",
+    "attal-plan-desendettement",
+    "attal-lettre-finances",
+    "attal-actualites-index",
+    "attal-lettre-application"
+  ],
+  "primary_source_id": "attal-lettre-finances",
+  "findings": "Les publications officielles des 23 septembre et 15 octobre 2026 exposent un plan de désendettement et ses objectifs. Pages HTML et texte extrait conservés. La publication du 15 octobre renvoie vers une lettre dans attal.app.",
+  "limits": "Le lien attal.app fournit uniquement une redirection côté navigateur, sans le texte intégral de la lettre dans la capture. La lettre intégrale n’est donc pas considérée comme acquise. Aucun PDF de chiffrage exhaustif identifié dans les pages consultées. Les deux publications doivent être rapprochées pour vérifier les éventuelles évolutions de calendrier.",
+  "useful_locations": "Publication du 15 octobre : intertitre Un plan de 150 milliards d’euros d’économies sur cinq ans ; publication du 23 septembre : Un plan de 150 milliards d’euros d’économies ; page Dette de l’État.",
+  "snapshot_date": "2026-10-28",
+  "analysis_status": "collected_not_independently_evaluated"
+}

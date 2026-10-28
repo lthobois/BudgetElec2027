@@ -1,0 +1,50 @@
+﻿candidate_id,name,initial_list,coverage,poll_count,scenario_count,observed_min_exact,observed_max_exact,has_censored_value,latest_wave_min,latest_wave_max,reference_percent,reference_rank,documentary_priority,complementary_priority
+nathalie-arthaud,Nathalie Arthaud,A,tested,4,13,0.5,1,True,0.5,0.5,0.5,10,False,False
+francois-asselineau,François Asselineau,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+gabriel-attal,Gabriel Attal,A,tested,4,7,4,12,False,12,12,,,False,True
+delphine-batho,Delphine Batho,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+olivier-becht,Olivier Becht,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+karim-bouamrane,Karim Bouamrane,A,tested,1,1,,,True,,,,,False,False
+juan-branco,Juan Branco,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+nicolas-dupont-aignan,Nicolas Dupont-Aignan,A,tested,4,13,1,3.5,False,3,3.5,3,7,False,False
+sylvain-durif,Sylvain Durif,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+clara-egger,Clara Egger,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+raphael-glucksmann,Raphaël Glucksmann,A,tested,4,12,12,15.5,False,13,14,13,4,True,False
+anasse-kazib,Anasse Kazib,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+selma-labib,Selma Labib,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+francis-lalanne,Francis Lalanne,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+marine-le-pen,Marine Le Pen,A,tested,4,13,30.5,36,False,30.5,33,33,1,True,False
+jean-francois-legendre,Jean-François Legendre,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+david-lisnard,David Lisnard,A,tested,4,5,6,8,False,8,8,,,False,False
+mira-markovic,Mira Markovic,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+benoit-mathieu,Benoît Mathieu,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+jean-luc-melenchon,Jean-Luc Mélenchon,A,tested,4,13,16,19.5,False,18.5,19.5,18.5,2,True,False
+antoine-mikolajczak,Antoine Mikolajczak,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+manolo-mlekuz,Manolo Mlekuz,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+edouard-philippe,Édouard Philippe,A,tested,4,9,12,17,False,16,17,16,3,True,False
+florian-philippot,Florian Philippot,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+gilles-platret,Gilles Platret,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+natacha-polony,Natacha Polony,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+bruno-retailleau,Bruno Retailleau,A,tested,4,13,4,11.5,False,7,10,8,5,True,False
+fabien-roussel,Fabien Roussel,A,tested,4,13,1,2.5,False,2,2,2,8,False,False
+francois-ruffin,François Ruffin,A,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+marine-tondelier,Marine Tondelier,A,tested,4,13,1,3.5,False,2,2.5,2,8,False,False
+eric-zemmour,Éric Zemmour,A,tested,4,13,3.5,6,False,3.5,4,4,6,False,False
+sebastien-bonnal,Sébastien Bonnal,B,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+melody-delmur,Mélody Delmur,B,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+emmanuel-dubuisson,Emmanuel Dubuisson,B,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+philippe-herlin,Philippe Herlin,B,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+erwan-rohou,Erwan Rohou,B,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+david-saforcada,David Saforcada,B,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+xavier-bertrand,Xavier Bertrand,C,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+bernard-cazeneuve,Bernard Cazeneuve,C,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+jean-lassalle,Jean Lassalle,C,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+jean-noel-barrot,Jean-Noël Barrot,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+elisabeth-borne,Élisabeth Borne,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+thierry-breton,Thierry Breton,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+francois-hollande,François Hollande,D,tested,1,1,6.5,6.5,False,6.5,6.5,,,False,False
+bruno-le-maire,Bruno Le Maire,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+matthieu-pigasse,Matthieu Pigasse,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+sandrine-rousseau,Sandrine Rousseau,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+manuel-valls,Manuel Valls,D,not_found_in_selected_polls,0,0,,,False,,,,,False,False
+dominique-de-villepin,Dominique de Villepin,D,tested,1,2,1,2,False,,,,,False,False

@@ -1,0 +1,16 @@
+{
+  "candidate_id": "edouard-philippe",
+  "name": "Édouard Philippe",
+  "priority": "reference_top5",
+  "financial_document_status": "personal_2027_economic_and_budget_priorities_found_html",
+  "programme_scope": "Priorités économiques et budgétaires de campagne, page HTML",
+  "source_ids": [
+    "philippe-prosperite"
+  ],
+  "primary_source_id": "philippe-prosperite",
+  "findings": "La page Pour une France plus prospère contient des mesures sur la fiscalité des entreprises, les dépenses publiques, le déficit, les retraites et l’assurance chômage. HTML original et texte extrait conservés.",
+  "limits": "Aucun dossier PDF budgétaire autonome ni chiffrage exhaustif de l’ensemble du programme identifié sur cette page. Des objectifs chiffrés ne suffisent pas à établir un financement complet. Date de publication non indiquée dans le contenu consulté.",
+  "useful_locations": "Intertitres : Libérer nos entreprises ; Rétablir nos comptes ; Alléger la charge sur les actifs ; Relèvement économique de l’Europe.",
+  "snapshot_date": "2026-10-28",
+  "analysis_status": "collected_not_independently_evaluated"
+}

@@ -1,0 +1,6 @@
+node_modules/
+dist/
+public/data/
+public/documents/
+tmp/
+*.local

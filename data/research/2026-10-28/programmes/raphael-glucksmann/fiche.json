@@ -1,0 +1,18 @@
+{
+  "candidate_id": "raphael-glucksmann",
+  "name": "Raphaël Glucksmann",
+  "priority": "reference_top5",
+  "financial_document_status": "collective_party_project_found_personal_2027_financial_programme_not_found_in_search",
+  "programme_scope": "Acte I de Place publique, vision collective ; page personnelle de campagne",
+  "source_ids": [
+    "glucksmann-projet-parti",
+    "glucksmann-campagne",
+    "glucksmann-acte1"
+  ],
+  "primary_source_id": "glucksmann-acte1",
+  "findings": "Acte I — Notre vision pour la France téléchargé depuis le lien officiel du parti : 88 pages. Le texte comprend des orientations sociales, économiques, fiscales et de financement. Le site de campagne glucks2027.fr est relié depuis Place publique.",
+  "limits": "Ce projet collectif est distinct d’un programme financier personnel consolidé de 2027. Aucun tel document identifié dans les pages officielles consultées. La date exacte de publication n’est pas établie ici par la page ni la couverture ; la qualification initiale 2025 du manifeste de collecte reste à confirmer par une notice primaire datée.",
+  "useful_locations": "Sommaire au début du PDF ; section Retrouver les moyens d’agir, financer nos ambitions à la fin du document. Ne pas attribuer automatiquement chaque proposition collective au candidat.",
+  "snapshot_date": "2026-10-28",
+  "analysis_status": "collected_not_independently_evaluated"
+}
