@@ -1,0 +1,108 @@
+{
+  "checked_date": "2026-10-28",
+  "methodology": "Rapprochements documentaires des mesures déjà collectées. Les chiffres restent des annonces de leurs auteurs : aucune efficacité, faisabilité ni économie n'est validée ici. Chaque cellule renvoie à une mesure et à sa source. Une même unité ne suffit pas : l'exercice, le public, la base de calcul et le statut personnel/collectif doivent être conservés. Aucun total entre enveloppes et composants, aucune moyenne, aucune conversion de budget en points de mérite. Une cellule absente signifie non repéré dans ce corpus, jamais zéro ou absence de politique.",
+  "families": [
+    {
+      "id": "deficit-public",
+      "title": "Objectif de déficit public",
+      "unit": "% du PIB",
+      "comparability": "Indicateur commun, calendriers et hypothèses distincts",
+      "explanation": "On peut rapprocher les niveaux de déficit annoncés, pas en déduire une crédibilité supérieure. Fin du quinquennat correspondrait à 2032 pour un mandat débutant en 2027 ; cette correspondance est une convention de lecture. La baisse de déficit de 24,7 Md€ pour 2027 chez Mélenchon et le déficit RN en euros pour 2026 ne sont pas intégrés à cette ligne car leur unité et leur horizon diffèrent.",
+      "entries": [
+        {"candidate_id":"edouard-philippe","measure_id":"edouard-philippe-m01","display":"2 % du PIB","basis":"Niveau de déficit public visé, pas économie budgétaire","horizon":"Fin du quinquennat","limits":"La page ne fournit pas de trajectoire annuelle complète ni de modèle macroéconomique commun aux autres candidats."},
+        {"candidate_id":"bruno-retailleau","measure_id":"bruno-retailleau-m01","display":"2,2 % du PIB en 2032 ; 2,8 % en 2031","basis":"Niveaux annuels de déficit public dans la trajectoire du candidat","horizon":"2031 et 2032","limits":"Prévisions de campagne sur ses propres hypothèses de croissance, prix et économies ; aucun audit indépendant de la trajectoire dans cette étude."},
+        {"candidate_id":"gabriel-attal","measure_id":"gabriel-attal-m03","display":"Moins de 3 % avant 2032 ; équilibre en 2037","basis":"Seuil puis équilibre de l'ensemble des finances publiques","horizon":"Avant 2032, puis 2037","limits":"Un seuil n'est pas une valeur précise en 2032. Les calendriers d'équilibre des comptes sociaux varient entre les publications et restent à clarifier."}
+      ]
+    },
+    {
+      "id": "smic-net",
+      "title": "Niveau cible du SMIC net",
+      "unit": "€ nets par mois",
+      "comparability": "Cibles nominales proches, attribution et date différentes",
+      "explanation": "Les montants désignent le même type de revenu mensuel, mais pas une hausse par rapport à une base commune ni un coût pour le budget public. Le texte de Place publique est collectif : il ne suffit pas à établir l'engagement personnel de Glucksmann pour 2027. Aucun écart en pouvoir d'achat n'est calculé sans harmoniser l'inflation et les échéances.",
+      "entries": [
+        {"candidate_id":"jean-luc-melenchon","measure_id":"jean-luc-melenchon-m02","display":"1 700 € nets par mois","basis":"SMIC cible dans les orientations budgétaires 2027","horizon":"Mesure d'urgence sociale","limits":"Montant de salaire, pas enveloppe de dépense publique. Effets sur prix, emploi et cotisations non évalués ici."},
+        {"candidate_id":"raphael-glucksmann","measure_id":"raphael-glucksmann-m04","display":"1 600 € nets par mois — projet collectif","basis":"Cible de l'Acte I de Place publique","horizon":"Dans les deux ans suivant l'accession au pouvoir selon le texte","limits":"Adoption personnelle 2027 à confirmer. Date, inflation et calendrier différents des orientations Mélenchon."}
+      ]
+    },
+    {
+      "id": "retraite-age",
+      "title": "Paramètres d'âge de la retraite",
+      "unit": "Âge et conditions de départ",
+      "comparability": "Paramètres comparables, dispositifs différents",
+      "explanation": "Comparer les âges exige de conserver durée de cotisation, taux plein, décote, exceptions et transition. Le seul nombre d'années ne mesure ni la pension obtenue, ni la durée réellement travaillée, ni le rendement budgétaire.",
+      "entries": [
+        {"candidate_id":"edouard-philippe","measure_id":"edouard-philippe-m05","display":"65 ans et 45 années de cotisation","basis":"Âge et durée de cotisation proposés, avec départs anticipés","horizon":"Montée en charge en moins de dix ans","limits":"Exceptions pour santé et carrières longues ; calendrier par génération et rendement budgétaire non établis dans cette page."},
+        {"candidate_id":"bruno-retailleau","measure_id":"bruno-retailleau-m06","display":"63 ans avec décote ; taux plein à 65 ans","basis":"Deux âges ; décote annoncée de 7 % par année manquante","horizon":"Effets chiffrés à 2032 dans le dossier","limits":"Taux plein annoncé indexé sur l'espérance de vie. Les 12 Md€ chiffrent les mesures d'âge ; les 42 Md€ du bloc retraite incluent d'autres mesures et ressources."}
+      ]
+    },
+    {
+      "id": "chomage-duree",
+      "title": "Durée maximale d'indemnisation chômage",
+      "unit": "Mois d'indemnisation",
+      "comparability": "Unité commune, populations et règles à rapprocher",
+      "explanation": "Les durées fournissent un premier contraste concret, mais les droits dépendent aussi de l'âge, de l'activité antérieure, de la conjoncture et des exceptions. Ne pas présenter trois mois d'écart comme une différence de coût sans harmoniser ces conditions.",
+      "entries": [
+        {"candidate_id":"edouard-philippe","measure_id":"edouard-philippe-m06","display":"12 mois maximum pour les moins de 50 ans","basis":"Durée maximale proposée pour un public défini","horizon":"Entrée en vigueur non précisée","limits":"Absence de chiffrage propre à la mesure ; droits des autres classes d'âge non déduits de cette proposition."},
+        {"candidate_id":"bruno-retailleau","measure_id":"bruno-retailleau-m07","display":"15 mois maximum dans les règles proposées","basis":"Application revendiquée des règles de juin 2024, avec modulation et droits seniors spécifiques","horizon":"Économie du paquet chiffrée à 2032","limits":"Les 14 Md€ d'économies annoncés couvrent plusieurs réformes de l'assurance chômage, pas seulement la réduction de durée."}
+      ]
+    },
+    {
+      "id": "effectifs-publics",
+      "title": "Effectifs publics : objectifs et moyens",
+      "unit": "Postes / départs non remplacés",
+      "comparability": "Ordres de grandeur seulement ; périmètres distincts",
+      "explanation": "Les trois réductions concernent les effectifs publics avec des modes de réalisation différents. La création de postes enseignants chez Mélenchon est montrée à côté comme solution sectorielle, pas comme un objectif net pour toute la fonction publique. Il n'est pas possible de comparer les masses salariales sur ces seuls nombres.",
+      "entries": [
+        {"candidate_id":"edouard-philippe","measure_id":"edouard-philippe-m04","display":"Plus de 250 000 postes en moins","basis":"Un départ à la retraite sur trois non remplacé","horizon":"Sur le quinquennat","limits":"Volume annoncé comme supérieur à 250 000, pas exactement égal. Répartition par administration et coût moyen non précisés."},
+        {"candidate_id":"bruno-retailleau","measure_id":"bruno-retailleau-m02","display":"400 000 départs en retraite non remplacés","basis":"Trois versants de la fonction publique, sans licenciement selon le dossier","horizon":"Sur le quinquennat ; effet budgétaire chiffré à 2032","limits":"Les 25 Md€ annoncés pour ce composant sont inclus dans le paquet fonctionnement de 56 Md€ ; ne pas additionner les deux."},
+        {"candidate_id":"gabriel-attal","measure_id":"gabriel-attal-m04","display":"100 000 postes supprimés par départs volontaires","basis":"Départs volontaires avec prime ; secteurs prioritaires annoncés préservés","horizon":"Quinquennat ; calendrier détaillé absent","limits":"Coût des primes et remplacement des compétences non chiffrés dans le passage ; périmètre différent d'un non-remplacement général des retraites."},
+        {"candidate_id":"jean-luc-melenchon","measure_id":"jean-luc-melenchon-m04","display":"10 000 postes créés dans l'éducation","basis":"Créations sectorielles, pas solde de l'ensemble des effectifs publics","horizon":"Année budgétaire suivante dans les orientations 2027","limits":"Périmètre plus étroit et échéance plus courte ; ne pas comparer arithmétiquement avec les réductions globales de mandat."}
+      ]
+    },
+    {
+      "id": "cvae",
+      "title": "CVAE : rétablissement ciblé ou suppression",
+      "unit": "Orientation fiscale et Md€ de recettes annoncées",
+      "comparability": "Même prélèvement, années et bases non harmonisées",
+      "explanation": "C'est un contraste de solutions : rétablir une recette sur certaines entreprises ou supprimer le prélèvement. Les montants ne constituent pas deux estimations d'une même réforme : exercices, droit de référence, assiettes et nature des documents diffèrent. Les plans généraux sur les impôts de production sont traités dans une ligne distincte.",
+      "entries": [
+        {"candidate_id":"jean-luc-melenchon","measure_id":"jean-luc-melenchon-m09","display":"Rétablissement sur les plus grandes entreprises : +3 Md€ de recettes annoncées","basis":"Orientations budgétaires 2027 ; recette supplémentaire revendiquée","horizon":"2027","limits":"Taux, assiette et seuils précis non détaillés dans ce passage. Recette annoncée non validée indépendamment."},
+        {"candidate_id":"marine-le-pen","measure_id":"marine-le-pen-m08","display":"Suppression totale : 2,6 Md€ de recettes en moins — RN 2026","basis":"Contre-budget collectif RN relatif au PLF 2026","horizon":"Budget 2026 ; document de 2025","limits":"Ce texte du parti n'est pas automatiquement un engagement personnel pour 2027. Le montant ne se compare pas directement à une recette de 2027."}
+      ]
+    },
+    {
+      "id": "impots-production",
+      "title": "Baisse des impôts de production",
+      "unit": "Md€ de baisse annoncée",
+      "comparability": "Montants à harmoniser avant comparaison budgétaire",
+      "explanation": "Le sujet et le sens de la réforme sont communs, mais le montant, la liste des taxes et la base annuelle doivent être alignés. Cette ligne sert à comparer les instruments et leur financement revendiqué ; aucun ratio de générosité ni coût net comparable n'est calculé.",
+      "entries": [
+        {"candidate_id":"edouard-philippe","measure_id":"edouard-philippe-m02","display":"50 Md€ de baisse contre 50 Md€ d'aides en moins","basis":"Échange entre prélèvements et aides aux entreprises","horizon":"Quinquennat ; annualité et montée en charge non précisées","limits":"Ne pas additionner les deux 50 Md€ comme une dépense de 100 Md€. La suppression d'aides peut toucher d'autres bénéficiaires que la baisse d'impôt."},
+        {"candidate_id":"bruno-retailleau","measure_id":"bruno-retailleau-m04","display":"15 Md€ d'impôts de production supprimés en 2032","basis":"Niveau à terme du tableau de restitutions aux entreprises","horizon":"2032","limits":"Composant des 51 Md€ restitués par des économies, et non montant à ajouter au total du paquet. Liste complète des taxes à rapprocher de celle des autres candidats."}
+      ]
+    },
+    {
+      "id": "enseignants-remuneration",
+      "title": "Revalorisation des enseignants",
+      "unit": "Hausse moyenne en % ou gain net mensuel",
+      "comparability": "Même public, unités non convertibles sans données supplémentaires",
+      "explanation": "Les propositions ont un objet commun mais leurs chiffres ne sont pas directement comparables. Il manque la rémunération de référence, les catégories, le nombre de bénéficiaires et le coût employeur pour traduire un pourcentage moyen en euros nets individuels, puis en budget public.",
+      "entries": [
+        {"candidate_id":"edouard-philippe","measure_id":"edouard-philippe-m09","display":"+20 % de rémunération moyenne","basis":"Objectif moyen, pas hausse uniforme de chaque fiche de paie","horizon":"Sur le quinquennat","limits":"Répartition par corps et ancienneté, base et calendrier non indiqués dans la proposition consultée."},
+        {"candidate_id":"gabriel-attal","measure_id":"gabriel-attal-m10","display":"+200 à +500 € nets par mois","basis":"Fourchette de gains individuels annoncée pour les enseignants","horizon":"Calendrier non précisé dans ce passage","limits":"Critères d'attribution, rémunération initiale et nombre de bénéficiaires nécessaires à une conversion comparable."}
+      ]
+    },
+    {
+      "id": "economies-paquets",
+      "title": "Enveloppes globales d'économies annoncées",
+      "unit": "Md€ ; nature temporelle à conserver",
+      "comparability": "Comparaison budgétaire bloquée par une base temporelle incomplète",
+      "explanation": "Cette ligne rend visible une limite importante. Retailleau fournit un niveau d'économies atteint en 2032 ; la formulation des 150 Md€ d'Attal sur le quinquennat ne permet pas, à elle seule, de déterminer s'il s'agit d'un cumul ou d'un niveau annuel à terme. On ne les classe donc pas comme deux montants directement comparables et on ne les additionne pas à leurs composants.",
+      "entries": [
+        {"candidate_id":"bruno-retailleau","measure_id":"bruno-retailleau-m01","display":"197 Md€ d'économies au niveau de 2032","basis":"Niveau à terme par rapport à un scénario sans réforme ; euros 2026 annoncés","horizon":"2032 ; trajectoire annuelle fournie","limits":"146 Md€ annoncés pour le déficit et 51 Md€ restitués. Les composants sont déjà inclus ; chiffrage de campagne à examiner."},
+        {"candidate_id":"gabriel-attal","measure_id":"gabriel-attal-m01","display":"150 Md€ sur le quinquennat — annualité/cumul à préciser","basis":"Formulation de campagne sur cinq ans ou d'ici 2032","horizon":"Quinquennat","limits":"Ne pas diviser automatiquement par cinq ni considérer automatiquement un montant annuel. Le frein d'urgence de 20 Md€ peut être inclus dans l'enveloppe."}
+      ]
+    }
+  ]
+}

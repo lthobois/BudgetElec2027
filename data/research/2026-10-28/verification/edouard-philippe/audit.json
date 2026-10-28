@@ -3,88 +3,294 @@
   "checked_date": "2026-10-28",
   "publication_status_label": "Propositions de campagne publiées, chiffrage global non trouvé",
   "publication_status_detail": "Le site personnel publie des priorités détaillées, dont des engagements fiscaux, sociaux et budgétaires. La vérification approfondie a ajouté les volets famille/éducation et investissement à la page économique initiale. Aucun programme financier consolidé présentant tous les coûts, recettes et une trajectoire annuelle commune n'a été identifié dans les pages et recherches consultées.",
-  "publication_status_source_ids": ["philippe-prosperite", "audit-philippe-enfants", "audit-philippe-conquerante"],
-  "scope_warning": "Les douze mesures ci-dessous sont des engagements personnels publiés sur le site de campagne. Les montants restent ceux du candidat ; leur exactitude, leur financement et leurs effets ne sont pas validés indépendamment. Cette sélection n'est pas exhaustive.",
-  "search_log": [
-    {"query_or_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","result":"Page officielle relue en ligne : fiscalité, déficit, dépenses sociales, retraites et travail. L'archive initiale fournit les passages correspondants."},
-    {"query_or_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants","result":"Page officielle atteinte depuis les autres priorités ; nouvelle archive HTML et texte créée. Mesures IR, allocation familiale et rémunération des enseignants."},
-    {"query_or_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante","result":"Page officielle atteinte depuis les autres priorités ; nouvelle archive HTML et texte créée. Investissements, énergie, financement technologique et adaptation."},
-    {"query_or_url":"site:edouardphilippe.fr chiffrage programme","result":"Aucun dossier financier consolidé distinct identifié par cette requête et les liens des pages consultées. Ce constat ne prouve pas une absence de publication ailleurs."}
+  "publication_status_source_ids": [
+    "philippe-prosperite",
+    "audit-philippe-enfants",
+    "audit-philippe-conquerante"
   ],
-  "source_ids": ["philippe-prosperite", "audit-philippe-enfants", "audit-philippe-conquerante"],
+  "scope_warning": "Les treize mesures ci-dessous sont des engagements personnels publiés sur le site de campagne. Les montants restent ceux du candidat ; leur exactitude, leur financement et leurs effets ne sont pas validés indépendamment. Cette sélection n'est pas exhaustive.",
+  "search_log": [
+    {
+      "query_or_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "result": "Page officielle relue en ligne : fiscalité, déficit, dépenses sociales, retraites et travail. L'archive initiale fournit les passages correspondants."
+    },
+    {
+      "query_or_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "result": "Page officielle atteinte depuis les autres priorités ; nouvelle archive HTML et texte créée. Mesures IR, allocation familiale et rémunération des enseignants."
+    },
+    {
+      "query_or_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "result": "Page officielle atteinte depuis les autres priorités ; nouvelle archive HTML et texte créée. Investissements, énergie, financement technologique et adaptation."
+    },
+    {
+      "query_or_url": "site:edouardphilippe.fr chiffrage programme",
+      "result": "Aucun dossier financier consolidé distinct identifié par cette requête et les liens des pages consultées. Ce constat ne prouve pas une absence de publication ailleurs."
+    }
+  ],
+  "source_ids": [
+    "philippe-prosperite",
+    "audit-philippe-enfants",
+    "audit-philippe-conquerante"
+  ],
   "strategy": {
     "summary": "Les mécanismes décrits donnent une place importante à l'offre : prélèvements de production réduits, travail supplémentaire et âge de retraite plus élevé, réorganisation de l'État. Ils sont associés à des transferts et allègements fiscaux pour les familles ainsi qu'à des investissements publics et technologiques. La stratégie combine donc compétitivité, redressement budgétaire et mesures familiales.",
     "interpretation": true,
-    "source_ids": ["philippe-prosperite", "audit-philippe-enfants", "audit-philippe-conquerante"],
+    "source_ids": [
+      "philippe-prosperite",
+      "audit-philippe-enfants",
+      "audit-philippe-conquerante"
+    ],
     "limits": "Lecture descriptive des instruments proposés ; aucune estimation de croissance, d'emploi ou de multiplicateur budgétaire n'est produite ici. Les effets peuvent dépendre du financement retenu."
   },
   "measures": [
     {
-      "id":"edouard-philippe-m01","axis":"dette","title":"Viser un déficit public de 2 % du PIB en fin de mandat",
-      "description":"La page de campagne fixe un objectif de déficit à 2 % du PIB en fin de quinquennat et prévoit une règle d'or constitutionnelle soumise à référendum.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Rétablir nos comptes pour retrouver notre souveraineté, premier point","evidence_excerpt":"2% du PIB","attribution":"personal_2027","horizon":"Fin du quinquennat","amount":{"value":2,"unit":"% du PIB","basis":"Niveau de déficit visé en fin de mandat ; pas un montant d'économies"},"financing":"La page répartit l'effort entre dépenses sociales, État/collectivités et croissance, sans trajectoire annuelle complète.","beneficiaries":"Les administrations publiques sont le périmètre annoncé ; les effets par ménage ne sont pas calculés.","limits":"Objectif et instrument constitutionnel annoncés ; hypothèses de PIB, taux, recettes et calendrier intermédiaire non détaillées sur cette page."
+      "id": "edouard-philippe-m01",
+      "axis": "dette",
+      "title": "Viser un déficit public de 2 % du PIB en fin de mandat",
+      "description": "La page de campagne fixe un objectif de déficit à 2 % du PIB en fin de quinquennat et prévoit une règle d'or constitutionnelle soumise à référendum.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Rétablir nos comptes pour retrouver notre souveraineté, premier point",
+      "evidence_excerpt": "2% du PIB",
+      "attribution": "personal_2027",
+      "horizon": "Fin du quinquennat",
+      "amount": {
+        "value": 2,
+        "unit": "% du PIB",
+        "basis": "Niveau de déficit visé en fin de mandat ; pas un montant d'économies"
+      },
+      "financing": "La page répartit l'effort entre dépenses sociales, État/collectivités et croissance, sans trajectoire annuelle complète.",
+      "beneficiaries": "Les administrations publiques sont le périmètre annoncé ; les effets par ménage ne sont pas calculés.",
+      "limits": "Objectif et instrument constitutionnel annoncés ; hypothèses de PIB, taux, recettes et calendrier intermédiaire non détaillées sur cette page."
     },
     {
-      "id":"edouard-philippe-m02","axis":"entreprises","title":"Échanger 50 Md€ d'impôts de production contre 50 Md€ d'aides en moins",
-      "description":"Le pacte fiscal annoncé associe une baisse de 50 Md€ des impôts de production à la suppression de 50 Md€ d'aides publiques qualifiées d'improductives.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Libérer nos entreprises du poids des impôts et de la bureaucratie, premier point","evidence_excerpt":"50 Md€","attribution":"personal_2027","horizon":"Quinquennat ; profil annuel non précisé","amount":{"value":50,"unit":"Md€","basis":"Montants annoncés de baisse d'impôts et d'aides ; annualité et montée en charge à préciser"},"financing":"Compensation annoncée par la réduction des aides publiques, à montant nominal égal.","beneficiaries":"Entreprises bénéficiaires des impôts réduits ; certaines entreprises pourraient perdre des aides.","limits":"La liste des aides, taxes et bénéficiaires concernés n'est pas fournie ici. Une compensation nominale ne démontre pas un équilibre effectif ni un gain identique pour chaque entreprise. Il ne s'agit pas d'une baisse de taux d'IS annoncée dans ce passage."
+      "id": "edouard-philippe-m02",
+      "axis": "entreprises",
+      "title": "Échanger 50 Md€ d'impôts de production contre 50 Md€ d'aides en moins",
+      "description": "Le pacte fiscal annoncé associe une baisse de 50 Md€ des impôts de production à la suppression de 50 Md€ d'aides publiques qualifiées d'improductives.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Libérer nos entreprises du poids des impôts et de la bureaucratie, premier point",
+      "evidence_excerpt": "50 Md€",
+      "attribution": "personal_2027",
+      "horizon": "Quinquennat ; profil annuel non précisé",
+      "amount": {
+        "value": 50,
+        "unit": "Md€",
+        "basis": "Montants annoncés de baisse d'impôts et d'aides ; annualité et montée en charge à préciser"
+      },
+      "financing": "Compensation annoncée par la réduction des aides publiques, à montant nominal égal.",
+      "beneficiaries": "Entreprises bénéficiaires des impôts réduits ; certaines entreprises pourraient perdre des aides.",
+      "limits": "La liste des aides, taxes et bénéficiaires concernés n'est pas fournie ici. Une compensation nominale ne démontre pas un équilibre effectif ni un gain identique pour chaque entreprise. Il ne s'agit pas d'une baisse de taux d'IS annoncée dans ce passage."
     },
     {
-      "id":"edouard-philippe-m03","axis":"entreprises","title":"Exonérer les heures au-delà de la 37e heure de cotisations patronales",
-      "description":"La campagne propose de permettre aux entreprises de fixer leur durée de travail et d'appliquer zéro cotisation patronale au-delà de la 37e heure.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Libérer nos entreprises du poids des impôts et de la bureaucratie, deuxième point","evidence_excerpt":"37ème heure","attribution":"personal_2027","horizon":null,"amount":null,"financing":"Aucun coût de l'exonération ni recette compensatrice détaillés dans ce passage.","beneficiaries":"Employeurs des salariés accomplissant les heures concernées ; modalités de négociation à préciser.","limits":"Le taux effectif, la base et le volume d'heures doivent être connus avant tout chiffrage. Ne pas confondre cette exonération patronale avec les mesures distinctes d'impôt sur le revenu des salariés."
+      "id": "edouard-philippe-m03",
+      "axis": "entreprises",
+      "title": "Exonérer les heures au-delà de la 37e heure de cotisations patronales",
+      "description": "La campagne propose de permettre aux entreprises de fixer leur durée de travail et d'appliquer zéro cotisation patronale au-delà de la 37e heure.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Libérer nos entreprises du poids des impôts et de la bureaucratie, deuxième point",
+      "evidence_excerpt": "37ème heure",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Aucun coût de l'exonération ni recette compensatrice détaillés dans ce passage.",
+      "beneficiaries": "Employeurs des salariés accomplissant les heures concernées ; modalités de négociation à préciser.",
+      "limits": "Le taux effectif, la base et le volume d'heures doivent être connus avant tout chiffrage. Ne pas confondre cette exonération patronale avec les mesures distinctes d'impôt sur le revenu des salariés."
     },
     {
-      "id":"edouard-philippe-m04","axis":"depenses","title":"Ne pas remplacer un départ à la retraite sur trois dans la fonction publique",
-      "description":"La page annonce plus de 250 000 postes supprimés sur le quinquennat par le non-remplacement d'un tiers des fonctionnaires partant à la retraite.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Rétablir nos comptes pour retrouver notre souveraineté, quatrième point","evidence_excerpt":"250 000 postes","attribution":"personal_2027","horizon":"Quinquennat","amount":{"value":250000,"unit":"postes (seuil dépassé annoncé)","basis":"Effectifs supprimés sur le mandat ; pas une économie en euros"},"financing":"Économies de masse salariale recherchées ; valeur budgétaire non chiffrée dans ce passage.","beneficiaries":"Administrations et usagers concernés selon la répartition des postes, qui n'est pas précisée.","limits":"Le calendrier, les administrations concernées, les métiers protégés et les effets sur la qualité des services restent à documenter."
+      "id": "edouard-philippe-m04",
+      "axis": "depenses",
+      "title": "Ne pas remplacer un départ à la retraite sur trois dans la fonction publique",
+      "description": "La page annonce plus de 250 000 postes supprimés sur le quinquennat par le non-remplacement d'un tiers des fonctionnaires partant à la retraite.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Rétablir nos comptes pour retrouver notre souveraineté, quatrième point",
+      "evidence_excerpt": "250 000 postes",
+      "attribution": "personal_2027",
+      "horizon": "Quinquennat",
+      "amount": {
+        "value": 250000,
+        "unit": "postes (seuil dépassé annoncé)",
+        "basis": "Effectifs supprimés sur le mandat ; pas une économie en euros"
+      },
+      "financing": "Économies de masse salariale recherchées ; valeur budgétaire non chiffrée dans ce passage.",
+      "beneficiaries": "Administrations et usagers concernés selon la répartition des postes, qui n'est pas précisée.",
+      "limits": "Le calendrier, les administrations concernées, les métiers protégés et les effets sur la qualité des services restent à documenter."
     },
     {
-      "id":"edouard-philippe-m05","axis":"travail","title":"Porter progressivement la retraite à 65 ans et 45 années de cotisation",
-      "description":"La proposition associe un âge de départ de 65 ans et une durée de cotisation de 45 ans en moins de dix ans, avec départs anticipés pour certains publics et négociation de la pénibilité.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Alléger la charge sur les actifs et assurer l'avenir des générations futures, troisième et quatrième points","evidence_excerpt":"65 ans","attribution":"personal_2027","horizon":"Moins de dix ans","amount":null,"financing":"Le candidat présente la réforme comme un moyen de sauvegarder les retraites sans hausse de cotisations ni baisse générale des pensions.","beneficiaries":"Actifs et retraités ; exceptions explicites pour handicap, incapacité, invalidité et carrières longues.","limits":"Le rendement budgétaire, les générations touchées et les paramètres de transition ne sont pas chiffrés ici. L'effet sur l'emploi des seniors ne peut pas être déduit du seul changement d'âge."
+      "id": "edouard-philippe-m05",
+      "axis": "travail",
+      "title": "Porter progressivement la retraite à 65 ans et 45 années de cotisation",
+      "description": "La proposition associe un âge de départ de 65 ans et une durée de cotisation de 45 ans en moins de dix ans, avec départs anticipés pour certains publics et négociation de la pénibilité.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Alléger la charge sur les actifs et assurer l'avenir des générations futures, troisième et quatrième points",
+      "evidence_excerpt": "65 ans",
+      "attribution": "personal_2027",
+      "horizon": "Moins de dix ans",
+      "amount": null,
+      "financing": "Le candidat présente la réforme comme un moyen de sauvegarder les retraites sans hausse de cotisations ni baisse générale des pensions.",
+      "beneficiaries": "Actifs et retraités ; exceptions explicites pour handicap, incapacité, invalidité et carrières longues.",
+      "limits": "Le rendement budgétaire, les générations touchées et les paramètres de transition ne sont pas chiffrés ici. L'effet sur l'emploi des seniors ne peut pas être déduit du seul changement d'âge."
     },
     {
-      "id":"edouard-philippe-m06","axis":"travail","title":"Limiter l'indemnisation chômage à douze mois avant 50 ans",
-      "description":"La durée maximale d'indemnisation serait ramenée à douze mois pour les moins de 50 ans, contre dix-huit mois selon la comparaison figurant dans le texte de campagne.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Alléger la charge sur les actifs et assurer l'avenir des générations futures, point sur l'assurance chômage","evidence_excerpt":"12 mois","attribution":"personal_2027","horizon":null,"amount":null,"financing":"Économie recherchée sur l'indemnisation ; aucune estimation propre à la mesure dans cette page.","beneficiaries":"Demandeurs d'emploi de moins de 50 ans directement concernés par la réduction des droits.","limits":"Le texte de campagne ne suffit pas à évaluer l'évolution des retours à l'emploi, des revenus et des reports vers d'autres prestations. Le droit en vigueur cité n'est pas vérifié par cet audit."
+      "id": "edouard-philippe-m06",
+      "axis": "travail",
+      "title": "Limiter l'indemnisation chômage à douze mois avant 50 ans",
+      "description": "La durée maximale d'indemnisation serait ramenée à douze mois pour les moins de 50 ans, contre dix-huit mois selon la comparaison figurant dans le texte de campagne.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Alléger la charge sur les actifs et assurer l'avenir des générations futures, point sur l'assurance chômage",
+      "evidence_excerpt": "12 mois",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Économie recherchée sur l'indemnisation ; aucune estimation propre à la mesure dans cette page.",
+      "beneficiaries": "Demandeurs d'emploi de moins de 50 ans directement concernés par la réduction des droits.",
+      "limits": "Le texte de campagne ne suffit pas à évaluer l'évolution des retours à l'emploi, des revenus et des reports vers d'autres prestations. Le droit en vigueur cité n'est pas vérifié par cet audit."
     },
     {
-      "id":"edouard-philippe-m07","axis":"particuliers","title":"Alléger l'impôt sur le revenu pendant les trois premières années d'un enfant",
-      "description":"Les familles de classes moyennes visées seraient exonérées d'IR pendant trois ans ; les familles plus aisées qui travaillent recevraient une réduction de 3 000 € par an sur la même période.",
-      "source_id":"audit-philippe-enfants","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants","locator":"Intertitre Pour une nouvelle politique familiale, deuxième point","evidence_excerpt":"3 000 €","attribution":"personal_2027","horizon":"Trois premières années de l'enfant","amount":{"value":3000,"unit":"€ par an","basis":"Réduction annoncée pour les familles plus aisées qui travaillent ; l'autre branche est une exonération d'IR"},"financing":"Perte de recettes non chiffrée ni compensée spécifiquement sur cette page.","beneficiaries":"Classes moyennes ciblées par déciles et familles plus aisées actives ; l'avantage dépend de l'impôt initial.","limits":"Barème exact, traitement des foyers non imposables, imputation de la réduction et coût global non détaillés. Ne pas attribuer 3 000 € à toutes les familles."
+      "id": "edouard-philippe-m07",
+      "axis": "particuliers",
+      "title": "Alléger l'impôt sur le revenu pendant les trois premières années d'un enfant",
+      "description": "Les familles de classes moyennes visées seraient exonérées d'IR pendant trois ans ; les familles plus aisées qui travaillent recevraient une réduction de 3 000 € par an sur la même période.",
+      "source_id": "audit-philippe-enfants",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "locator": "Intertitre Pour une nouvelle politique familiale, deuxième point",
+      "evidence_excerpt": "3 000 €",
+      "attribution": "personal_2027",
+      "horizon": "Trois premières années de l'enfant",
+      "amount": {
+        "value": 3000,
+        "unit": "€ par an",
+        "basis": "Réduction annoncée pour les familles plus aisées qui travaillent ; l'autre branche est une exonération d'IR"
+      },
+      "financing": "Perte de recettes non chiffrée ni compensée spécifiquement sur cette page.",
+      "beneficiaries": "Classes moyennes ciblées par déciles et familles plus aisées actives ; l'avantage dépend de l'impôt initial.",
+      "limits": "Barème exact, traitement des foyers non imposables, imputation de la réduction et coût global non détaillés. Ne pas attribuer 3 000 € à toutes les familles."
     },
     {
-      "id":"edouard-philippe-m08","axis":"travail","title":"Créer une allocation familiale unique dès le premier enfant",
-      "description":"La proposition fusionne des dispositifs existants en une allocation dès le premier enfant, annoncée à 350 € et dégressive avec le revenu.",
-      "source_id":"audit-philippe-enfants","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants","locator":"Intertitre Pour une nouvelle politique familiale, premier point","evidence_excerpt":"350€","attribution":"personal_2027","horizon":null,"amount":{"value":350,"unit":"€","basis":"Montant affiché ; périodicité et barème non indiqués dans ce passage"},"financing":"Fusion de prestations existantes annoncée, sans liste, coût net ni taux de compensation publiés ici.","beneficiaries":"Familles dès le premier enfant, avec dégressivité selon le revenu.","limits":"La périodicité de 350 € n'est pas déduite. Il faut la liste des droits remplacés et un calcul par foyer pour identifier gagnants et perdants."
+      "id": "edouard-philippe-m08",
+      "axis": "travail",
+      "title": "Créer une allocation familiale unique dès le premier enfant",
+      "description": "La proposition fusionne des dispositifs existants en une allocation dès le premier enfant, annoncée à 350 € et dégressive avec le revenu.",
+      "source_id": "audit-philippe-enfants",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "locator": "Intertitre Pour une nouvelle politique familiale, premier point",
+      "evidence_excerpt": "350€",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": {
+        "value": 350,
+        "unit": "€",
+        "basis": "Montant affiché ; périodicité et barème non indiqués dans ce passage"
+      },
+      "financing": "Fusion de prestations existantes annoncée, sans liste, coût net ni taux de compensation publiés ici.",
+      "beneficiaries": "Familles dès le premier enfant, avec dégressivité selon le revenu.",
+      "limits": "La périodicité de 350 € n'est pas déduite. Il faut la liste des droits remplacés et un calcul par foyer pour identifier gagnants et perdants."
     },
     {
-      "id":"edouard-philippe-m09","axis":"depenses","title":"Augmenter de 20 % la rémunération moyenne des enseignants",
-      "description":"La campagne fixe une hausse de 20 % de la rémunération moyenne des enseignants sur le quinquennat, notamment en milieu de carrière.",
-      "source_id":"audit-philippe-enfants","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants","locator":"Intertitre Pour une école de la liberté et de l'exigence, cinquième point","evidence_excerpt":"20 %","attribution":"personal_2027","horizon":"Quinquennat","amount":{"value":20,"unit":"%","basis":"Hausse de rémunération moyenne annoncée ; pas une hausse individuelle uniforme"},"financing":"Coût de masse salariale et financement dédié non fournis sur cette page.","beneficiaries":"Enseignants, avec priorité affichée au milieu de carrière.","limits":"La moyenne ne permet pas de calculer la hausse de chaque enseignant ; effectifs, grilles et calendrier sont nécessaires."
+      "id": "edouard-philippe-m09",
+      "axis": "depenses",
+      "title": "Augmenter de 20 % la rémunération moyenne des enseignants",
+      "description": "La campagne fixe une hausse de 20 % de la rémunération moyenne des enseignants sur le quinquennat, notamment en milieu de carrière.",
+      "source_id": "audit-philippe-enfants",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "locator": "Intertitre Pour une école de la liberté et de l'exigence, cinquième point",
+      "evidence_excerpt": "20 %",
+      "attribution": "personal_2027",
+      "horizon": "Quinquennat",
+      "amount": {
+        "value": 20,
+        "unit": "%",
+        "basis": "Hausse de rémunération moyenne annoncée ; pas une hausse individuelle uniforme"
+      },
+      "financing": "Coût de masse salariale et financement dédié non fournis sur cette page.",
+      "beneficiaries": "Enseignants, avec priorité affichée au milieu de carrière.",
+      "limits": "La moyenne ne permet pas de calculer la hausse de chaque enseignant ; effectifs, grilles et calendrier sont nécessaires."
     },
     {
-      "id":"edouard-philippe-m10","axis":"investissement","title":"Doter un fonds unique d'adaptation climatique de 2 Md€ par an",
-      "description":"Le fonds réunirait le fonds Barnier et le Fonds vert pour financer des investissements d'adaptation, avec une dotation annoncée de 2 Md€ par an.",
-      "source_id":"audit-philippe-conquerante","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante","locator":"Intertitre Adapter nos villes et protéger la qualité de vie des Français face au réchauffement, point sur le fonds unique","evidence_excerpt":"2 milliards","attribution":"personal_2027","horizon":"Annuel ; début non indiqué","amount":{"value":2,"unit":"Md€ par an","basis":"Dotation du fonds fusionné, pas nécessairement dépense nouvelle nette"},"financing":"Regroupement de deux fonds existants ; part de redéploiement et financement supplémentaire non précisés.","beneficiaries":"Territoires et projets d'adaptation au changement climatique.","limits":"Ne pas compter intégralement cette dotation comme une dépense nouvelle sans retrancher les crédits préexistants et vérifier leur périmètre."
+      "id": "edouard-philippe-m10",
+      "axis": "investissement",
+      "title": "Doter un fonds unique d'adaptation climatique de 2 Md€ par an",
+      "description": "Le fonds réunirait le fonds Barnier et le Fonds vert pour financer des investissements d'adaptation, avec une dotation annoncée de 2 Md€ par an.",
+      "source_id": "audit-philippe-conquerante",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "locator": "Intertitre Adapter nos villes et protéger la qualité de vie des Français face au réchauffement, point sur le fonds unique",
+      "evidence_excerpt": "2 milliards",
+      "attribution": "personal_2027",
+      "horizon": "Annuel ; début non indiqué",
+      "amount": {
+        "value": 2,
+        "unit": "Md€ par an",
+        "basis": "Dotation du fonds fusionné, pas nécessairement dépense nouvelle nette"
+      },
+      "financing": "Regroupement de deux fonds existants ; part de redéploiement et financement supplémentaire non précisés.",
+      "beneficiaries": "Territoires et projets d'adaptation au changement climatique.",
+      "limits": "Ne pas compter intégralement cette dotation comme une dépense nouvelle sans retrancher les crédits préexistants et vérifier leur périmètre."
     },
     {
-      "id":"edouard-philippe-m11","axis":"investissement","title":"Créer un livret capital France pour financer les technologies",
-      "description":"Le candidat propose un livret capital France mobilisant l'épargne des ménages pour les entreprises technologiques, en complément d'un recours à l'épargne retraite.",
-      "source_id":"audit-philippe-conquerante","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante","locator":"Intertitre Armer la France pour gagner la course mondiale à l'intelligence artificielle, premier point","evidence_excerpt":"livret capital France","attribution":"personal_2027","horizon":null,"amount":null,"financing":"Mobilisation d'épargne privée, à distinguer d'une dépense budgétaire directe.","beneficiaries":"Entreprises technologiques et épargnants, selon conditions futures du placement.","limits":"Rendement, garanties, fiscalité, risque et montant de collecte non définis dans ce passage. L'épargne mobilisée ne constitue pas automatiquement une économie publique."
+      "id": "edouard-philippe-m11",
+      "axis": "investissement",
+      "title": "Créer un livret capital France pour financer les technologies",
+      "description": "Le candidat propose un livret capital France mobilisant l'épargne des ménages pour les entreprises technologiques, en complément d'un recours à l'épargne retraite.",
+      "source_id": "audit-philippe-conquerante",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "locator": "Intertitre Armer la France pour gagner la course mondiale à l'intelligence artificielle, premier point",
+      "evidence_excerpt": "livret capital France",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Mobilisation d'épargne privée, à distinguer d'une dépense budgétaire directe.",
+      "beneficiaries": "Entreprises technologiques et épargnants, selon conditions futures du placement.",
+      "limits": "Rendement, garanties, fiscalité, risque et montant de collecte non définis dans ce passage. L'épargne mobilisée ne constitue pas automatiquement une économie publique."
     },
     {
-      "id":"edouard-philippe-m12","axis":"travail","title":"Étendre la retraite par capitalisation collective à tous les salariés",
-      "description":"Le candidat propose de généraliser une retraite par capitalisation collective à l'ensemble des salariés.",
-      "source_id":"philippe-prosperite","source_url":"https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere","locator":"Intertitre Alléger la charge sur les actifs et assurer l'avenir des générations futures, point sur la capitalisation collective","evidence_excerpt":"capitalisation collective","attribution":"personal_2027","horizon":null,"amount":null,"financing":"Épargne retraite collective ; répartition des cotisations, garanties et coûts de transition non précisés ici.","beneficiaries":"Ensemble des salariés visés par la généralisation.","limits":"Le texte ne chiffre pas les cotisations, rendements ni effets sur la répartition. Le versement initial distinct de 500 € mentionné dans la même page n'est pas intégré comme coût global dans cette fiche."
+      "id": "edouard-philippe-m12",
+      "axis": "travail",
+      "title": "Étendre la retraite par capitalisation collective à tous les salariés",
+      "description": "Le candidat propose de généraliser une retraite par capitalisation collective à l'ensemble des salariés.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Alléger la charge sur les actifs et assurer l'avenir des générations futures, point sur la capitalisation collective",
+      "evidence_excerpt": "capitalisation collective",
+      "attribution": "personal_2027",
+      "horizon": null,
+      "amount": null,
+      "financing": "Épargne retraite collective ; répartition des cotisations, garanties et coûts de transition non précisés ici.",
+      "beneficiaries": "Ensemble des salariés visés par la généralisation.",
+      "limits": "Le texte ne chiffre pas les cotisations, rendements ni effets sur la répartition. Le versement initial distinct de 500 € mentionné dans la même page n'est pas intégré comme coût global dans cette fiche."
+    },
+    {
+      "id": "edouard-philippe-m13",
+      "axis": "travail",
+      "title": "Doter un plan d’épargne retraite de 500 € au premier emploi",
+      "description": "La page de campagne prévoit l’ouverture d’un plan d’épargne retraite pour chaque Français, avec un premier versement de l’État de 500 € dès le premier emploi.",
+      "source_id": "philippe-prosperite",
+      "source_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "locator": "Intertitre Alléger la charge sur les actifs et assurer l’avenir des générations futures, point sur la retraite par capitalisation collective",
+      "evidence_excerpt": "500€",
+      "attribution": "personal_2027",
+      "horizon": "Au premier emploi ; démarrage de la mesure non précisé",
+      "amount": {
+        "value": 500,
+        "unit": "€ par bénéficiaire",
+        "basis": "Premier versement de l’État lors du premier emploi ; pas le coût budgétaire total"
+      },
+      "financing": "Dotation publique initiale ; nombre annuel de nouveaux bénéficiaires et financement du dispositif non fournis.",
+      "beneficiaries": "Français accédant à leur premier emploi, selon conditions futures d’ouverture du plan.",
+      "limits": "La dotation n’a pas le même public ni le même événement déclencheur que le PER de 1 000 € pour enfants annoncé par Attal. Les montants individuels peuvent être présentés côte à côte, sans en déduire une comparaison des coûts globaux."
     }
   ],
   "assessment": {
-    "funding":"Plusieurs mécanismes de financement sont annoncés : remplacement d'aides par des baisses d'impôts, réduction d'effectifs, ajustement des droits sociaux et mobilisation d'épargne. La page ne fournit pas de tableau consolidé permettant de vérifier que ces économies couvrent les nouvelles dépenses, exonérations et réductions d'impôts. Les 50 Md€ de baisse d'impôts et d'aides ne doivent pas être additionnés comme deux économies.",
-    "distribution":"Les mesures identifient des publics différents : entreprises, familles imposables, enseignants, salariés et demandeurs d'emploi. La réduction d'aides aux entreprises, la fusion des prestations et la baisse de durée du chômage peuvent modifier la répartition des gains. Aucun effet net par décile ou ménage type n'est calculé dans les textes consultés.",
-    "feasibility":"Le programme donne des objectifs et certains paramètres précis, mais la trajectoire annuelle de dette, les coûts de transition et la ventilation opérationnelle restent à documenter. Les changements de retraites, chômage, fiscalité et Constitution nécessitent des textes et procédures dont l'issue n'est pas présumée ici.",
-    "limitations":"Extraction descriptive de douze mesures depuis trois pages officielles. Les dates exactes de publication de ces pages ne sont pas indiquées ; elles sont datées ici par la consultation du 28 octobre 2026. Aucune validation macroéconomique indépendante ni notation n'a été réalisée."
+    "funding": "Plusieurs mécanismes de financement sont annoncés : remplacement d'aides par des baisses d'impôts, réduction d'effectifs, ajustement des droits sociaux et mobilisation d'épargne. La page ne fournit pas de tableau consolidé permettant de vérifier que ces économies couvrent les nouvelles dépenses, exonérations et réductions d'impôts. Les 50 Md€ de baisse d'impôts et d'aides ne doivent pas être additionnés comme deux économies.",
+    "distribution": "Les mesures identifient des publics différents : entreprises, familles imposables, enseignants, salariés et demandeurs d'emploi. La réduction d'aides aux entreprises, la fusion des prestations et la baisse de durée du chômage peuvent modifier la répartition des gains. Aucun effet net par décile ou ménage type n'est calculé dans les textes consultés.",
+    "feasibility": "Le programme donne des objectifs et certains paramètres précis, mais la trajectoire annuelle de dette, les coûts de transition et la ventilation opérationnelle restent à documenter. Les changements de retraites, chômage, fiscalité et Constitution nécessitent des textes et procédures dont l'issue n'est pas présumée ici.",
+    "limitations": "Extraction descriptive de treize mesures depuis trois pages officielles. Les dates exactes de publication de ces pages ne sont pas indiquées ; elles sont datées ici par la consultation du 28 octobre 2026. Aucune validation macroéconomique indépendante ni notation n'a été réalisée."
   },
-  "new_source_manifest_paths":["data/research/2026-10-28/verification/edouard-philippe/collecte-results.json"]
+  "new_source_manifest_paths": [
+    "data/research/2026-10-28/verification/edouard-philippe/collecte-results.json"
+  ]
 }

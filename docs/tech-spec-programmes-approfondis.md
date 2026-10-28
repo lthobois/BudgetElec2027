@@ -18,6 +18,8 @@ context:
 
 **Approche :** Rechercher les publications officielles des six personnes déjà documentées, archiver les nouveaux textes et extraire des mesures économiques avec leur provenance précise. Présenter une première lecture documentaire dans les fiches et le comparateur, tout en distinguant programme complet, propositions partielles et textes collectifs ou antérieurs. La demande autorise la recherche et l'intégration dans l'application existante ; pas de publication distante.
 
+Complément explicitement demandé par l'utilisateur pendant la recherche : rapprocher les mesures chiffrées déjà acquises pour comparer les solutions concrètes. Le fichier `verification/comparaisons.json` regroupe ces rapprochements par objet et documente leurs limites d'unité, horizon, public et attribution. L'interface doit permettre leur consultation pour deux ou trois personnes sans transformer une proximité de thème en équivalence de coût.
+
 ## Contraintes
 
 Toujours conserver les originaux du premier instantané et qualifier chaque mesure individuellement. Une annonce personnelle de 2027 ne change pas la nature d'un ancien texte du parti. La stratégie offre/demande est une interprétation argumentée des mécanismes décrits, pas une déclaration du candidat ni un effet économique prouvé. Les coûts et bénéfices restent ceux annoncés ; pas de note, de total additionnant des enveloppes et leurs composants, ni de simulation non étayée. Une recherche infructueuse ne prouve pas l'absence de programme.

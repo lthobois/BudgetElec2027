@@ -1,0 +1,29 @@
+[
+  {
+    "id": "audit-attal-lettre-originale",
+    "candidate_id": "gabriel-attal",
+    "url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+    "path": "data/research/2026-10-28/verification/gabriel-attal/sources/lettre-finances-publiques.pdf",
+    "kind": "annonce_budgetaire_campagne_2027",
+    "title": "Lettre aux Français sur les finances publiques — original PDF",
+    "discovery": "URL explicite dans la balise meta refresh de https://attal.app/lettre-finances-publiques, lui-même lié depuis la publication officielle du 15 octobre 2026",
+    "limitation": "Lettre personnelle de campagne ; son original ne constitue pas une validation indépendante ni un chiffrage exhaustif du programme.",
+    "consulted_at_utc": "2026-10-28T14:30:13.730218+00:00",
+    "final_url": "https://doc.parti.re/2026/Lettre-finances-publiques.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "last_modified": "Thu, 15 Oct 2026 08:54:10 GMT",
+    "status": "downloaded",
+    "size_bytes": 2098069,
+    "sha256": "6db2e324d447c428bab87da609d53ab631b578a2feab3fa292d751e90bcc34ef",
+    "page_count": 2,
+    "pdf_metadata": {
+      "/CreationDate": "D:20261015100457+02'00'",
+      "/Creator": "Adobe InDesign 21.1 (Macintosh)",
+      "/ModDate": "D:20261015100500+02'00'",
+      "/Producer": "Adobe PDF Library 18.0",
+      "/Trapped": "/False"
+    },
+    "text_path": "data/research/2026-10-28/verification/gabriel-attal/sources/lettre-finances-publiques.txt"
+  }
+]
